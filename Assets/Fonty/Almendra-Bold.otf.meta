@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: b9030af6fbd9e6548bbef781c9e6d2fb
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Almendra
+  fontNames:
+  - Almendra
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: d110a0a40cac6944a8a05b923d318af9, type: 3}
+  - {fileID: 12800000, guid: c63f8bf40a873794987266fd5f441b8e, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
