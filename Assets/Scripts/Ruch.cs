@@ -7,13 +7,13 @@ public class Ruch : MonoBehaviour
 
     public CharacterController2D ruch;
     public Joystick kontroler;
+    public Animator animacja;
 
     public static Vector3 pozycjaStartowa;
 
     public static float predkosc = 40f;
     public static float ruchwbok;
     public static int delajskok =20;
-    public static int delajkuc =20;
     public static float progSkok = .5f;
     public static bool czyskok = false;
     public static bool przykuc = false;
@@ -25,43 +25,35 @@ public class Ruch : MonoBehaviour
         pozycjaStartowa = transform.position;
         //Debug.Log(pozycjaStartowa);
     }
+    public void londowanko()
+    {
+        animacja.SetBool("czyskok", false);
+        Debug.Log("londowane");
+    }
+    public void kucanko(bool kuc)
+    {
+        animacja.SetBool("przykuc", kuc);
+    }
     void FixedUpdate()
     {
-        //predkosc = 0;
-        //if (RuchPrzyciski.czywlewo)
-        //{
-        //    predkosc = -40;
-        //    RuchPrzyciski.czywlewo = false;
-        //}
-        //if (RuchPrzyciski.czywprawo) 
-        //{ 
-        //    predkosc = 40;
-        //    RuchPrzyciski.czywprawo = false;
-        //}
-
-        //ruch.Move(predkosc*Time.fixedDeltaTime, przykuc, RuchPrzyciski.czyskok);
-        //RuchPrzyciski.czyskok = false;
-        //przykuc = false;
-        //if (RuchPrzyciski.delaj<30) RuchPrzyciski.delaj++;
-        //Debug.Log("joy: "+kontroler.Horizontal);
         ruchwbok = kontroler.Horizontal * predkosc;
         if (kontroler.Vertical >= progSkok && delajskok >= 20)
         {
             czyskok = true;
+            animacja.SetBool("czyskok", true);
             delajskok = 0;
         }
-        else if (kontroler.Vertical <= -progSkok && delajkuc >= 20)
+        else if (kontroler.Vertical <= -progSkok && !czyskok && delajskok >= 20)
         {
             przykuc = true;
-            delajkuc = 0;
         }
         else
         {
-            przykuc = false;
             czyskok = false;
+            przykuc = false;
         }
+        animacja.SetFloat("predkosc", Mathf.Abs(ruchwbok));
         ruch.Move(ruchwbok * Time.fixedDeltaTime, przykuc, czyskok);
         delajskok++;
-        delajkuc++;
     }
 }
