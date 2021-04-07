@@ -13,7 +13,7 @@ public class Ruch : MonoBehaviour
 
     public static float predkosc = 40f;
     public static float ruchwbok;
-    public static int delajskok =20;
+    public static int delajskok =25;
     public static float progSkok = .5f;
     public static bool czyskok = false;
     public static bool przykuc = false;
@@ -37,7 +37,7 @@ public class Ruch : MonoBehaviour
     void FixedUpdate()
     {
         ruchwbok = kontroler.Horizontal * predkosc;
-        if (kontroler.Vertical >= progSkok && delajskok >= 20)
+        if (kontroler.Vertical >= progSkok && delajskok >= 20 && !(animacja.GetBool("przykuc")))
         {
             czyskok = true;
             animacja.SetBool("czyskok", true);
