@@ -28,7 +28,7 @@ public class Ruch : MonoBehaviour
     public void londowanko()
     {
         animacja.SetBool("czyskok", false);
-        Debug.Log("londowane");
+        //Debug.Log("londowane");
     }
     public void kucanko(bool kuc)
     {
