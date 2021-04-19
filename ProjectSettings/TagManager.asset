@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Hero
+  - znak
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Hero
+  - guzik
+  - enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: tlopod
+    uniqueID: 4199227249
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: tlo
+    uniqueID: 1480502507
+    locked: 0
+  - name: swiat
+    uniqueID: 156048793
+    locked: 0
+  - name: hero
+    uniqueID: 2790919243
+    locked: 0
+  - name: swiatnad
+    uniqueID: 2885449801
+    locked: 0
+  - name: ui
+    uniqueID: 2439315937
+    locked: 0
