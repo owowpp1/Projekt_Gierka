@@ -9,17 +9,24 @@ public class Dabulklik : MonoBehaviour
     public Animator animacja;
     private float lastClickTime;
     public float catchTime = 0.25f;
+    public GameObject attack_box;
 
     void Attack()
     {
         animacja.SetTrigger("atacc");
-        Hero_stats.kliknol = true;
+
+        attack_box.SetActive(true);
+
+        //Hero_stats.kliknol = true;
 
         Invoke("odkliknij", 0.5f);
     }
     void odkliknij()
     {
-        Hero_stats.kliknol = false;
+        //Hero_stats.kliknol = false;
+
+
+        attack_box.SetActive(false);
     }
     void Update()
     {

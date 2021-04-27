@@ -5,13 +5,19 @@ using UnityEngine;
 
 public class Ćmierć : MonoBehaviour
 {
-    public GameObject tekst;
-    public GameObject postac;
+    GameObject tekst;
+    GameObject postac;
+
+    void Start()
+    {
+        postac = Hero_stats.hero;
+        tekst = Hero_stats.napis;
+    }
 
     void OnTriggerEnter2D(Collider2D other)
     {
         //Debug.Log("wykryto lol");
-        if (other.name == "Klata_collider" || other.name == "Szkity_collider")
+        if (other.name == "Szkity_collider")
         {
             tekst.SetActive(true);
             Ruch.predkosc = 0f;

@@ -6,8 +6,9 @@ public class Wruk_ić : MonoBehaviour
 {
     public Transform detektorpodlogi;
     public Transform detektorsciany;
-    [Range(0, 40)] [SerializeField] private float predkosc = 20f;
-    [SerializeField] private Collider2D ziemia;
+    private float predkosc = 20f;
+    private Collider2D ziemia;
+    private GameObject ziemiaTM;
     public Animator animacja;
 
     Rigidbody2D wruk;
@@ -21,7 +22,10 @@ public class Wruk_ić : MonoBehaviour
     {
         polozenie = this.transform;
         wruk = this.GetComponent<Rigidbody2D>();
-        
+        ziemiaTM = GameObject.Find("Ziemia");
+        ziemia = ziemiaTM.GetComponent<Collider2D>();
+        predkosc = Hero_stats.nme_speed;
+
     }
 
     // Update is called once per frame
@@ -33,6 +37,7 @@ public class Wruk_ić : MonoBehaviour
         {
             //Debug.Log("IDE");
             Vector2 ruch = wruk.velocity;
+            predkosc = Hero_stats.nme_speed;
             ruch.x = predkosc*kjerunek;
             wruk.velocity = ruch;
 

@@ -4360,7 +4360,7 @@ GameObject:
   - component: {fileID: 383997752}
   - component: {fileID: 383997751}
   - component: {fileID: 383997750}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: Bottle (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8324,7 +8324,7 @@ GameObject:
   - component: {fileID: 698709719}
   - component: {fileID: 698709718}
   - component: {fileID: 698709717}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: Bottle (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -37335,7 +37335,7 @@ GameObject:
   - component: {fileID: 817664140}
   - component: {fileID: 817664137}
   - component: {fileID: 817664138}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: Bottle
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -46132,7 +46132,7 @@ GameObject:
   - component: {fileID: 1456815642}
   - component: {fileID: 1456815641}
   - component: {fileID: 1456815640}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: Bottle (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -47609,7 +47609,7 @@ PrefabInstance:
     - target: {fileID: 994529034469944343, guid: 912a2039dfd89f8429afa1583beee8fc,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 3.0078318
+      value: 3.0078316
       objectReference: {fileID: 0}
     - target: {fileID: 994529034469944343, guid: 912a2039dfd89f8429afa1583beee8fc,
         type: 3}
@@ -47629,12 +47629,12 @@ PrefabInstance:
     - target: {fileID: 994529035096303157, guid: 912a2039dfd89f8429afa1583beee8fc,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 43.81
+      value: -4.82
       objectReference: {fileID: 0}
     - target: {fileID: 994529035096303157, guid: 912a2039dfd89f8429afa1583beee8fc,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 6.29
+      value: 0.6
       objectReference: {fileID: 0}
     - target: {fileID: 994529035096303157, guid: 912a2039dfd89f8429afa1583beee8fc,
         type: 3}
@@ -47714,7 +47714,7 @@ PrefabInstance:
     - target: {fileID: 7065340861029841622, guid: 912a2039dfd89f8429afa1583beee8fc,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 3.0078318
+      value: 3.0078316
       objectReference: {fileID: 0}
     - target: {fileID: 7065340861029841622, guid: 912a2039dfd89f8429afa1583beee8fc,
         type: 3}
@@ -52696,7 +52696,7 @@ GameObject:
   - component: {fileID: 1965858366}
   - component: {fileID: 1965858365}
   - component: {fileID: 1965858364}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: Bottle (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
