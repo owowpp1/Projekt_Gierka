@@ -15,10 +15,14 @@ public class Dabulklik : MonoBehaviour
     {
         animacja.SetTrigger("atacc");
 
-        attack_box.SetActive(true);
 
         //Hero_stats.kliknol = true;
 
+        Invoke("kliknij", 0.2f);
+    }
+    void kliknij()
+    {
+        attack_box.SetActive(true);
         Invoke("odkliknij", 0.5f);
     }
     void odkliknij()

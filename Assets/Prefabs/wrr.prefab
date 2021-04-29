@@ -307,8 +307,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   detektorpodlogi: {fileID: 5542763287432853094}
   detektorsciany: {fileID: 5542763287116686530}
-  predkosc: 2.7
-  ziemia: {fileID: 0}
   animacja: {fileID: 5542763288029802432}
 --- !u!95 &5542763288029802432
 Animator:

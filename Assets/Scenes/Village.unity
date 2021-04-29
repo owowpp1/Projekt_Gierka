@@ -7129,6 +7129,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   animacja: {fileID: 572040210}
   catchTime: 0.25
+  attack_box: {fileID: 0}
 --- !u!1 &577285467
 GameObject:
   m_ObjectHideFlags: 0
@@ -39725,7 +39726,7 @@ PrefabInstance:
     - target: {fileID: 2688150970816846576, guid: 554a026834031cc4dac454f4cb442f6f,
         type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2819321779716943493, guid: 554a026834031cc4dac454f4cb442f6f,
         type: 3}
@@ -40133,7 +40134,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0073f333f0dcfe5489706ea463a3c2b9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lista: {fileID: 0}
 --- !u!1 &979283245 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 2688150970816846576, guid: 554a026834031cc4dac454f4cb442f6f,
@@ -51315,7 +51315,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0073f333f0dcfe5489706ea463a3c2b9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lista: {fileID: 979283245}
 --- !u!1 &1827475118
 GameObject:
   m_ObjectHideFlags: 0

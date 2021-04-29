@@ -7,7 +7,6 @@ using UnityEngine.EventSystems;
 
 public class Scena_Przenies : MonoBehaviour, IPointerDownHandler
 {
-    public GameObject lista;
     public void OnPointerDown(PointerEventData eventData)
     {
         Text tekst;
@@ -15,10 +14,9 @@ public class Scena_Przenies : MonoBehaviour, IPointerDownHandler
         //Debug.Log(this.gameObject.name + " Was Clicked.");
         tekst = GameObject.Find(this.gameObject.name).GetComponent<Text>();
         nazwasceny = tekst.text;
-        //Debug.Log(nazwasceny);
+        Debug.Log("nazwasceny " + nazwasceny);
         SceneManager.LoadScene(nazwasceny);
 
-        lista.SetActive(false);
-
+        Hero_stats.wyburScen.SetActive(false);
     }
 }

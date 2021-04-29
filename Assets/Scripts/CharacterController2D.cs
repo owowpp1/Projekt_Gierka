@@ -61,7 +61,8 @@ public class CharacterController2D : MonoBehaviour
 			}
 		}
 
-		Hero_stats.Facing = m_FacingRight;
+		if (m_FacingRight) Hero_stats.Facing = 1;
+		else Hero_stats.Facing = -1;
 	}
 
 
@@ -141,6 +142,7 @@ public class CharacterController2D : MonoBehaviour
 	{
 		// Switch the way the player is labelled as facing.
 		m_FacingRight = !m_FacingRight;
+		Hero_stats.Facing *= -1;
 
 		// Multiply the player's x local scale by -1.
 		Vector3 theScale = transform.localScale;
