@@ -98,7 +98,7 @@ LightmapSettings:
     m_TrainingDataDestination: TrainingData
     m_LightProbeSampleCountMultiplier: 4
   m_LightingDataAsset: {fileID: 0}
-  m_UseShadowmask: 1
+  m_UseShadowmask: 0
 --- !u!196 &4
 NavMeshSettings:
   serializedVersion: 2
@@ -4360,7 +4360,7 @@ GameObject:
   - component: {fileID: 383997752}
   - component: {fileID: 383997751}
   - component: {fileID: 383997750}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Bottle (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8325,7 +8325,7 @@ GameObject:
   - component: {fileID: 698709719}
   - component: {fileID: 698709718}
   - component: {fileID: 698709717}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Bottle (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -37336,7 +37336,7 @@ GameObject:
   - component: {fileID: 817664140}
   - component: {fileID: 817664137}
   - component: {fileID: 817664138}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Bottle
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -39763,6 +39763,16 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5857943638402716655, guid: 554a026834031cc4dac454f4cb442f6f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6058304545714128074, guid: 554a026834031cc4dac454f4cb442f6f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6340209910443951159, guid: 554a026834031cc4dac454f4cb442f6f,
         type: 3}
       propertyPath: m_AnchoredPosition.x
@@ -39888,6 +39898,11 @@ PrefabInstance:
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 171596942}
+    - target: {fileID: 8986700026105936472, guid: 554a026834031cc4dac454f4cb442f6f,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -440.08276
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 554a026834031cc4dac454f4cb442f6f, type: 3}
 --- !u!1 &963009870
@@ -46132,7 +46147,7 @@ GameObject:
   - component: {fileID: 1456815642}
   - component: {fileID: 1456815641}
   - component: {fileID: 1456815640}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Bottle (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -52695,7 +52710,7 @@ GameObject:
   - component: {fileID: 1965858366}
   - component: {fileID: 1965858365}
   - component: {fileID: 1965858364}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Bottle (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}

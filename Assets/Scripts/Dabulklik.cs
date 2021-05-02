@@ -17,7 +17,6 @@ public class Dabulklik : MonoBehaviour
 
 
         //Hero_stats.kliknol = true;
-
         Invoke("kliknij", 0.2f);
     }
     void kliknij()
