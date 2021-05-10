@@ -43,7 +43,7 @@ public class Ćmierć : MonoBehaviour
             kolizja = false;
             var pozycja = pozycja_RT.anchoredPosition;
 
-            if (this.name == "Lawa") dmg = Hero_stats.maxHlth;
+            if (this.name == "Lawa") dmg = Hero_stats.currHealth;
             else dmg = 1;
 
             Hero_stats.currHealth-=dmg;
@@ -81,6 +81,7 @@ public class Ćmierć : MonoBehaviour
         pozycja_RT.anchoredPosition = pozycja_pocz;
         Ruch.predkosc = 40f;
         Ruch.progSkok = .5f;
+        pozycja_RT.anchoredPosition = pozycja_pocz;
         kolizja = true;
     }
     void kolizjatrue()
