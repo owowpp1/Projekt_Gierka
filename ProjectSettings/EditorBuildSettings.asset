@@ -11,4 +11,13 @@ EditorBuildSettings:
   - enabled: 1
     path: "Assets/Scenes/Do_test\xF3w.unity"
     guid: 18fdcf85e9b517b47a1009c7927b7c42
+  - enabled: 1
+    path: Assets/Scenes/Woods.unity
+    guid: 8ce3ac5117edce54fa047f1889559c71
+  - enabled: 1
+    path: Assets/Scenes/Dungeon.unity
+    guid: 2f7eab4954232b74393025cebe8af6ea
+  - enabled: 1
+    path: Assets/Scenes/Tower.unity
+    guid: 6fd51d216d1b9c94ba9f011fe860772b
   m_configObjects: {}

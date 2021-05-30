@@ -7,6 +7,8 @@ TagManager:
   - Hero
   - znak
   - wruk
+  - Platform
+  - bos
   layers:
   - Default
   - TransparentFX
@@ -52,6 +54,9 @@ TagManager:
     locked: 0
   - name: swiat
     uniqueID: 156048793
+    locked: 0
+  - name: podheronadswiat
+    uniqueID: 807115535
     locked: 0
   - name: hero
     uniqueID: 2790919243

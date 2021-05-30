@@ -1,0 +1,6008 @@
+fileFormatVersion: 2
+guid: f630ee956c274c9418aa8d22d19fac4f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8482402936817316857
+    second: fantasy_4colors_tileset_frame_0_0
+  - first:
+      213: -8979724638287448533
+    second: fantasy_4colors_tileset_frame_0_1
+  - first:
+      213: 7632875627425040762
+    second: fantasy_4colors_tileset_frame_0_2
+  - first:
+      213: -5069639026068360282
+    second: fantasy_4colors_tileset_frame_0_3
+  - first:
+      213: 4804605045582185097
+    second: fantasy_4colors_tileset_frame_0_4
+  - first:
+      213: -8073108923405512939
+    second: fantasy_4colors_tileset_frame_0_5
+  - first:
+      213: -3895371780207060938
+    second: fantasy_4colors_tileset_frame_0_6
+  - first:
+      213: 5254525126845594365
+    second: fantasy_4colors_tileset_frame_0_7
+  - first:
+      213: 6778302679832165560
+    second: fantasy_4colors_tileset_frame_0_8
+  - first:
+      213: -6050708220608393371
+    second: fantasy_4colors_tileset_frame_0_9
+  - first:
+      213: 2455129619097752058
+    second: fantasy_4colors_tileset_frame_0_10
+  - first:
+      213: -4662197118487453873
+    second: fantasy_4colors_tileset_frame_0_11
+  - first:
+      213: -6346991770556315294
+    second: fantasy_4colors_tileset_frame_0_12
+  - first:
+      213: 8523050161851894832
+    second: fantasy_4colors_tileset_frame_0_13
+  - first:
+      213: 5191973493224102617
+    second: fantasy_4colors_tileset_frame_0_14
+  - first:
+      213: 9135091515157605484
+    second: fantasy_4colors_tileset_frame_0_15
+  - first:
+      213: -353018979905241741
+    second: fantasy_4colors_tileset_frame_0_16
+  - first:
+      213: 8156188797251714463
+    second: fantasy_4colors_tileset_frame_0_17
+  - first:
+      213: -1619314236918730827
+    second: fantasy_4colors_tileset_frame_0_18
+  - first:
+      213: 3749680348808580221
+    second: fantasy_4colors_tileset_frame_0_19
+  - first:
+      213: 2868281757581379230
+    second: fantasy_4colors_tileset_frame_0_20
+  - first:
+      213: 8644253815598093548
+    second: fantasy_4colors_tileset_frame_0_21
+  - first:
+      213: 1568414775635551074
+    second: fantasy_4colors_tileset_frame_0_22
+  - first:
+      213: 1649794611731412786
+    second: fantasy_4colors_tileset_frame_0_23
+  - first:
+      213: -7141589640817335746
+    second: fantasy_4colors_tileset_frame_0_24
+  - first:
+      213: 3835484259465125602
+    second: fantasy_4colors_tileset_frame_0_25
+  - first:
+      213: 543769354620769116
+    second: fantasy_4colors_tileset_frame_0_26
+  - first:
+      213: 268458111147618968
+    second: fantasy_4colors_tileset_frame_0_27
+  - first:
+      213: 4398147566808351445
+    second: fantasy_4colors_tileset_frame_0_28
+  - first:
+      213: -8444777450146708885
+    second: fantasy_4colors_tileset_frame_0_29
+  - first:
+      213: -4958129879600848581
+    second: fantasy_4colors_tileset_frame_0_30
+  - first:
+      213: -3604545014487126433
+    second: fantasy_4colors_tileset_frame_0_31
+  - first:
+      213: 9217053508265307688
+    second: fantasy_4colors_tileset_frame_0_32
+  - first:
+      213: 5900055540730333264
+    second: fantasy_4colors_tileset_frame_0_33
+  - first:
+      213: 1599666729083321111
+    second: fantasy_4colors_tileset_frame_0_34
+  - first:
+      213: 964998330784223992
+    second: fantasy_4colors_tileset_frame_0_35
+  - first:
+      213: -1624595028684635082
+    second: fantasy_4colors_tileset_frame_0_36
+  - first:
+      213: 6697364581744933820
+    second: fantasy_4colors_tileset_frame_0_37
+  - first:
+      213: 5528608406084777713
+    second: fantasy_4colors_tileset_frame_0_38
+  - first:
+      213: -592901924560283221
+    second: fantasy_4colors_tileset_frame_0_39
+  - first:
+      213: 2167466511041687693
+    second: fantasy_4colors_tileset_frame_0_40
+  - first:
+      213: 8124097264708206111
+    second: fantasy_4colors_tileset_frame_0_41
+  - first:
+      213: -1490278390408535970
+    second: fantasy_4colors_tileset_frame_0_42
+  - first:
+      213: -2949825697074905884
+    second: fantasy_4colors_tileset_frame_0_43
+  - first:
+      213: 2134089677658030324
+    second: fantasy_4colors_tileset_frame_0_44
+  - first:
+      213: -8612251883499139295
+    second: fantasy_4colors_tileset_frame_0_45
+  - first:
+      213: -5423810593835268558
+    second: fantasy_4colors_tileset_frame_0_46
+  - first:
+      213: 8264136842111864165
+    second: fantasy_4colors_tileset_frame_0_47
+  - first:
+      213: -4361637450729902277
+    second: fantasy_4colors_tileset_frame_0_48
+  - first:
+      213: -661199464260600106
+    second: fantasy_4colors_tileset_frame_0_49
+  - first:
+      213: 4948217021619989647
+    second: fantasy_4colors_tileset_frame_0_50
+  - first:
+      213: 5629104581151172985
+    second: fantasy_4colors_tileset_frame_0_51
+  - first:
+      213: 6360975833285599376
+    second: fantasy_4colors_tileset_frame_0_52
+  - first:
+      213: -2236022909293970257
+    second: fantasy_4colors_tileset_frame_0_53
+  - first:
+      213: -1078299427995581607
+    second: fantasy_4colors_tileset_frame_0_54
+  - first:
+      213: -7261931524801859456
+    second: fantasy_4colors_tileset_frame_0_55
+  - first:
+      213: 6012320678490452727
+    second: fantasy_4colors_tileset_frame_0_56
+  - first:
+      213: 5028674968034528519
+    second: fantasy_4colors_tileset_frame_0_57
+  - first:
+      213: 5785226097787907086
+    second: fantasy_4colors_tileset_frame_0_58
+  - first:
+      213: 8271100028051946002
+    second: fantasy_4colors_tileset_frame_0_59
+  - first:
+      213: 2007222414418139378
+    second: fantasy_4colors_tileset_frame_0_60
+  - first:
+      213: 7677153141034142884
+    second: fantasy_4colors_tileset_frame_0_61
+  - first:
+      213: -2003511215105278458
+    second: fantasy_4colors_tileset_frame_0_62
+  - first:
+      213: -4093426811568978802
+    second: fantasy_4colors_tileset_frame_0_63
+  - first:
+      213: 7534386927564312760
+    second: fantasy_4colors_tileset_frame_0_64
+  - first:
+      213: -1781001753316537571
+    second: fantasy_4colors_tileset_frame_0_65
+  - first:
+      213: -6445732164715924797
+    second: fantasy_4colors_tileset_frame_0_66
+  - first:
+      213: 2229590322792109118
+    second: fantasy_4colors_tileset_frame_0_67
+  - first:
+      213: -8582414772770890646
+    second: fantasy_4colors_tileset_frame_0_68
+  - first:
+      213: 8598653928469053995
+    second: fantasy_4colors_tileset_frame_0_69
+  - first:
+      213: -4576444863221713329
+    second: fantasy_4colors_tileset_frame_0_70
+  - first:
+      213: 2328058098074504317
+    second: fantasy_4colors_tileset_frame_0_71
+  - first:
+      213: -8737889418691286885
+    second: fantasy_4colors_tileset_frame_0_72
+  - first:
+      213: -6687742487374898055
+    second: fantasy_4colors_tileset_frame_0_73
+  - first:
+      213: 1626517000547253846
+    second: fantasy_4colors_tileset_frame_0_74
+  - first:
+      213: -8798942651052928350
+    second: fantasy_4colors_tileset_frame_0_75
+  - first:
+      213: 531667323177628209
+    second: fantasy_4colors_tileset_frame_0_76
+  - first:
+      213: 5112383096549005569
+    second: fantasy_4colors_tileset_frame_0_77
+  - first:
+      213: -65503368589556523
+    second: fantasy_4colors_tileset_frame_0_78
+  - first:
+      213: -2045319552906362604
+    second: fantasy_4colors_tileset_frame_0_79
+  - first:
+      213: 9168540007803415510
+    second: fantasy_4colors_tileset_frame_0_80
+  - first:
+      213: 2595629408043412742
+    second: fantasy_4colors_tileset_frame_0_81
+  - first:
+      213: 3015254145703468679
+    second: fantasy_4colors_tileset_frame_0_82
+  - first:
+      213: -2804463656822758999
+    second: fantasy_4colors_tileset_frame_0_83
+  - first:
+      213: -1358822796806191183
+    second: fantasy_4colors_tileset_frame_0_84
+  - first:
+      213: -7502960267987824507
+    second: fantasy_4colors_tileset_frame_0_85
+  - first:
+      213: -1130925703925838238
+    second: fantasy_4colors_tileset_frame_0_86
+  - first:
+      213: 4189698440413161117
+    second: fantasy_4colors_tileset_frame_0_87
+  - first:
+      213: -5919955757989058596
+    second: fantasy_4colors_tileset_frame_0_88
+  - first:
+      213: -7452513079574465701
+    second: fantasy_4colors_tileset_frame_0_89
+  - first:
+      213: -700155111940500681
+    second: fantasy_4colors_tileset_frame_0_90
+  - first:
+      213: 3071304794174184782
+    second: fantasy_4colors_tileset_frame_0_91
+  - first:
+      213: -7764074635986047352
+    second: fantasy_4colors_tileset_frame_0_92
+  - first:
+      213: -5026563884527952323
+    second: fantasy_4colors_tileset_frame_0_93
+  - first:
+      213: -416391896059400323
+    second: fantasy_4colors_tileset_frame_0_94
+  - first:
+      213: -7979408436316329154
+    second: fantasy_4colors_tileset_frame_0_95
+  - first:
+      213: 2098703126785278954
+    second: fantasy_4colors_tileset_frame_0_96
+  - first:
+      213: -7106226458587732808
+    second: fantasy_4colors_tileset_frame_0_97
+  - first:
+      213: -2963663413136506339
+    second: fantasy_4colors_tileset_frame_0_98
+  - first:
+      213: -2118658415715299388
+    second: fantasy_4colors_tileset_frame_0_99
+  - first:
+      213: -3265252292022592823
+    second: fantasy_4colors_tileset_frame_0_100
+  - first:
+      213: 2772006879108167200
+    second: fantasy_4colors_tileset_frame_0_101
+  - first:
+      213: 5671175393790447723
+    second: fantasy_4colors_tileset_frame_0_102
+  - first:
+      213: -4539313647628879832
+    second: fantasy_4colors_tileset_frame_0_103
+  - first:
+      213: -981505967937682738
+    second: fantasy_4colors_tileset_frame_0_104
+  - first:
+      213: -5127855881196209419
+    second: fantasy_4colors_tileset_frame_0_105
+  - first:
+      213: -6066467635906728684
+    second: fantasy_4colors_tileset_frame_0_106
+  - first:
+      213: -1098963892585077999
+    second: fantasy_4colors_tileset_frame_0_107
+  - first:
+      213: -3796680815043426244
+    second: fantasy_4colors_tileset_frame_0_108
+  - first:
+      213: 7249008436567509537
+    second: fantasy_4colors_tileset_frame_0_109
+  - first:
+      213: 4552928905744331034
+    second: fantasy_4colors_tileset_frame_0_110
+  - first:
+      213: -2701901560423981122
+    second: fantasy_4colors_tileset_frame_0_111
+  - first:
+      213: 4121717511983529919
+    second: fantasy_4colors_tileset_frame_0_112
+  - first:
+      213: -1152283827343401714
+    second: fantasy_4colors_tileset_frame_0_113
+  - first:
+      213: 7034358492407249467
+    second: fantasy_4colors_tileset_frame_0_114
+  - first:
+      213: 3009939018180992797
+    second: fantasy_4colors_tileset_frame_0_115
+  - first:
+      213: 383154062546972078
+    second: fantasy_4colors_tileset_frame_0_116
+  - first:
+      213: 6757207910807372761
+    second: fantasy_4colors_tileset_frame_0_117
+  - first:
+      213: 474692605645804314
+    second: fantasy_4colors_tileset_frame_0_118
+  - first:
+      213: 972447254655329634
+    second: fantasy_4colors_tileset_frame_0_119
+  - first:
+      213: 850066683152176065
+    second: fantasy_4colors_tileset_frame_0_120
+  - first:
+      213: -3128348916952445686
+    second: fantasy_4colors_tileset_frame_0_121
+  - first:
+      213: 6508579171015574709
+    second: fantasy_4colors_tileset_frame_0_122
+  - first:
+      213: 361469917201589681
+    second: fantasy_4colors_tileset_frame_0_123
+  - first:
+      213: 2151585011833535832
+    second: fantasy_4colors_tileset_frame_0_124
+  - first:
+      213: -6439898309083154570
+    second: fantasy_4colors_tileset_frame_0_125
+  - first:
+      213: -7633807889939242453
+    second: fantasy_4colors_tileset_frame_0_126
+  - first:
+      213: 5170592246712824351
+    second: fantasy_4colors_tileset_frame_0_127
+  - first:
+      213: -7093998477322276885
+    second: fantasy_4colors_tileset_frame_0_128
+  - first:
+      213: 3144426833124166275
+    second: fantasy_4colors_tileset_frame_0_129
+  - first:
+      213: -4779215827225980401
+    second: fantasy_4colors_tileset_frame_0_130
+  - first:
+      213: -7784626317029559334
+    second: fantasy_4colors_tileset_frame_0_131
+  - first:
+      213: -4182358740271371558
+    second: fantasy_4colors_tileset_frame_0_132
+  - first:
+      213: -8594395127869339857
+    second: fantasy_4colors_tileset_frame_0_133
+  - first:
+      213: -5490238451631003327
+    second: fantasy_4colors_tileset_frame_0_134
+  - first:
+      213: 2559599616629099127
+    second: fantasy_4colors_tileset_frame_0_135
+  - first:
+      213: 2327684427732494601
+    second: fantasy_4colors_tileset_frame_0_136
+  - first:
+      213: 272228672919449193
+    second: fantasy_4colors_tileset_frame_0_137
+  - first:
+      213: 2108063203452960654
+    second: fantasy_4colors_tileset_frame_0_138
+  - first:
+      213: 4616795074085965106
+    second: fantasy_4colors_tileset_frame_0_139
+  - first:
+      213: -106412328808666388
+    second: fantasy_4colors_tileset_frame_0_140
+  - first:
+      213: 2595331850798036320
+    second: fantasy_4colors_tileset_frame_0_141
+  - first:
+      213: 935757895811197333
+    second: fantasy_4colors_tileset_frame_0_142
+  - first:
+      213: -6744882935670614815
+    second: fantasy_4colors_tileset_frame_0_143
+  - first:
+      213: -5973107902493703981
+    second: fantasy_4colors_tileset_frame_0_144
+  - first:
+      213: 1719366715135791302
+    second: fantasy_4colors_tileset_frame_0_145
+  - first:
+      213: 5130948070272182033
+    second: fantasy_4colors_tileset_frame_0_146
+  - first:
+      213: 682880583527059115
+    second: fantasy_4colors_tileset_frame_0_147
+  - first:
+      213: -6168854568648527575
+    second: fantasy_4colors_tileset_frame_0_148
+  - first:
+      213: -6905146503374751943
+    second: fantasy_4colors_tileset_frame_0_149
+  - first:
+      213: -8518288869487059719
+    second: fantasy_4colors_tileset_frame_0_150
+  - first:
+      213: -111338777149774306
+    second: fantasy_4colors_tileset_frame_0_151
+  - first:
+      213: 2579591790970126954
+    second: fantasy_4colors_tileset_frame_0_152
+  - first:
+      213: 8643775368074499173
+    second: fantasy_4colors_tileset_frame_0_153
+  - first:
+      213: -62290021119696861
+    second: fantasy_4colors_tileset_frame_0_154
+  - first:
+      213: -6510536755387227189
+    second: fantasy_4colors_tileset_frame_0_155
+  - first:
+      213: -6729416472024167936
+    second: fantasy_4colors_tileset_frame_0_156
+  - first:
+      213: -6800861775828507211
+    second: fantasy_4colors_tileset_frame_0_157
+  - first:
+      213: 6477691339044671647
+    second: fantasy_4colors_tileset_frame_0_158
+  - first:
+      213: 5052064674371493223
+    second: fantasy_4colors_tileset_frame_0_159
+  - first:
+      213: -2433314734360143379
+    second: fantasy_4colors_tileset_frame_0_160
+  - first:
+      213: -3333448380508292889
+    second: fantasy_4colors_tileset_frame_0_161
+  - first:
+      213: -3078218294001899977
+    second: fantasy_4colors_tileset_frame_0_162
+  - first:
+      213: 6754635452758373751
+    second: fantasy_4colors_tileset_frame_0_163
+  - first:
+      213: 1603872460725829294
+    second: fantasy_4colors_tileset_frame_0_164
+  - first:
+      213: -5378995091021855485
+    second: fantasy_4colors_tileset_frame_0_165
+  - first:
+      213: -453371712825169755
+    second: fantasy_4colors_tileset_frame_0_166
+  - first:
+      213: -6390836066037582313
+    second: fantasy_4colors_tileset_frame_0_167
+  - first:
+      213: 3253929890953140774
+    second: fantasy_4colors_tileset_frame_0_168
+  - first:
+      213: -1739329599480513172
+    second: fantasy_4colors_tileset_frame_0_169
+  - first:
+      213: -3201020949471463443
+    second: fantasy_4colors_tileset_frame_0_170
+  - first:
+      213: 2334437136061788548
+    second: fantasy_4colors_tileset_frame_0_171
+  - first:
+      213: -4763271227211355347
+    second: fantasy_4colors_tileset_frame_0_172
+  - first:
+      213: -3575515966215884384
+    second: fantasy_4colors_tileset_frame_0_173
+  - first:
+      213: -6842104596137623770
+    second: fantasy_4colors_tileset_frame_0_174
+  - first:
+      213: 4137711670261922471
+    second: fantasy_4colors_tileset_frame_0_175
+  - first:
+      213: -9204308093684195487
+    second: fantasy_4colors_tileset_frame_0_176
+  - first:
+      213: -3114206578028970725
+    second: fantasy_4colors_tileset_frame_0_177
+  - first:
+      213: 3381930627754480595
+    second: fantasy_4colors_tileset_frame_0_178
+  - first:
+      213: 3161243985612387671
+    second: fantasy_4colors_tileset_frame_0_179
+  - first:
+      213: -704293713083214151
+    second: fantasy_4colors_tileset_frame_0_180
+  - first:
+      213: 3043745053457515771
+    second: fantasy_4colors_tileset_frame_0_181
+  - first:
+      213: 8817881245099692915
+    second: fantasy_4colors_tileset_frame_0_182
+  - first:
+      213: -3970920722734524513
+    second: fantasy_4colors_tileset_frame_0_183
+  - first:
+      213: -2339178884241034574
+    second: fantasy_4colors_tileset_frame_0_184
+  - first:
+      213: 144251036656264457
+    second: fantasy_4colors_tileset_frame_0_185
+  - first:
+      213: 482275078469145592
+    second: fantasy_4colors_tileset_frame_0_186
+  - first:
+      213: 1355360825994635832
+    second: fantasy_4colors_tileset_frame_0_187
+  - first:
+      213: -442461854396857956
+    second: fantasy_4colors_tileset_frame_0_188
+  - first:
+      213: -4418870083912151798
+    second: fantasy_4colors_tileset_frame_0_189
+  - first:
+      213: -7574287024125796903
+    second: fantasy_4colors_tileset_frame_0_190
+  - first:
+      213: 8198598875389332086
+    second: fantasy_4colors_tileset_frame_0_191
+  - first:
+      213: -8518814976038630506
+    second: fantasy_4colors_tileset_frame_0_192
+  - first:
+      213: 5982362792920388776
+    second: fantasy_4colors_tileset_frame_0_193
+  - first:
+      213: 2245737814216550857
+    second: fantasy_4colors_tileset_frame_0_194
+  - first:
+      213: -8224424744551501068
+    second: fantasy_4colors_tileset_frame_0_195
+  - first:
+      213: 9109767174869564358
+    second: fantasy_4colors_tileset_frame_0_196
+  - first:
+      213: -7512663246747540533
+    second: fantasy_4colors_tileset_frame_0_197
+  - first:
+      213: 6292398142991484771
+    second: fantasy_4colors_tileset_frame_0_198
+  - first:
+      213: 1101161470766510658
+    second: fantasy_4colors_tileset_frame_0_199
+  - first:
+      213: -8302527053308670832
+    second: fantasy_4colors_tileset_frame_0_200
+  - first:
+      213: -425864460069196309
+    second: fantasy_4colors_tileset_frame_0_201
+  - first:
+      213: -2513120367765906047
+    second: fantasy_4colors_tileset_frame_0_202
+  - first:
+      213: 7399915541793705155
+    second: fantasy_4colors_tileset_frame_0_203
+  - first:
+      213: -3258219933799473771
+    second: fantasy_4colors_tileset_frame_0_204
+  - first:
+      213: -6985655585936763283
+    second: fantasy_4colors_tileset_frame_0_205
+  - first:
+      213: -935713619540171566
+    second: fantasy_4colors_tileset_frame_0_206
+  - first:
+      213: 776863243477548013
+    second: fantasy_4colors_tileset_frame_0_207
+  - first:
+      213: 1446171668897201319
+    second: fantasy_4colors_tileset_frame_0_208
+  - first:
+      213: 1010868245482544839
+    second: fantasy_4colors_tileset_frame_0_209
+  - first:
+      213: -7301654724045107284
+    second: fantasy_4colors_tileset_frame_0_210
+  - first:
+      213: 9008074371071514109
+    second: fantasy_4colors_tileset_frame_0_211
+  - first:
+      213: 5847947760573817265
+    second: fantasy_4colors_tileset_frame_0_212
+  - first:
+      213: 2306996154620125936
+    second: fantasy_4colors_tileset_frame_0_213
+  - first:
+      213: -7210648572523230293
+    second: fantasy_4colors_tileset_frame_0_214
+  - first:
+      213: 1110435508763349716
+    second: fantasy_4colors_tileset_frame_0_215
+  - first:
+      213: 2417800006751246522
+    second: fantasy_4colors_tileset_frame_0_216
+  - first:
+      213: -622536535097601493
+    second: fantasy_4colors_tileset_frame_0_217
+  - first:
+      213: -5430685736171150986
+    second: fantasy_4colors_tileset_frame_0_218
+  - first:
+      213: -3201329969893707064
+    second: fantasy_4colors_tileset_frame_0_219
+  - first:
+      213: 2197673137942180553
+    second: fantasy_4colors_tileset_frame_0_220
+  - first:
+      213: -2112646933226908295
+    second: fantasy_4colors_tileset_frame_0_221
+  - first:
+      213: 3587638389970709145
+    second: fantasy_4colors_tileset_frame_0_222
+  - first:
+      213: 8340743367273976936
+    second: fantasy_4colors_tileset_frame_0_223
+  - first:
+      213: -2930296145065082370
+    second: fantasy_4colors_tileset_frame_0_224
+  - first:
+      213: -655879179987637695
+    second: fantasy_4colors_tileset_frame_0_225
+  - first:
+      213: -968221778525938042
+    second: fantasy_4colors_tileset_frame_0_226
+  - first:
+      213: -724009836535426115
+    second: fantasy_4colors_tileset_frame_0_227
+  - first:
+      213: -5015212448079172537
+    second: fantasy_4colors_tileset_frame_0_228
+  - first:
+      213: -601934632740505831
+    second: fantasy_4colors_tileset_frame_0_229
+  - first:
+      213: -6016649997915233380
+    second: fantasy_4colors_tileset_frame_0_230
+  - first:
+      213: -8600951808879898172
+    second: fantasy_4colors_tileset_frame_0_231
+  - first:
+      213: 5685994607342018054
+    second: fantasy_4colors_tileset_frame_0_232
+  - first:
+      213: 3681996620405328738
+    second: fantasy_4colors_tileset_frame_0_233
+  - first:
+      213: 4360876637555542319
+    second: fantasy_4colors_tileset_frame_0_234
+  - first:
+      213: 3599205438494975456
+    second: fantasy_4colors_tileset_frame_0_235
+  - first:
+      213: 533643488503937249
+    second: fantasy_4colors_tileset_frame_0_236
+  - first:
+      213: 7703130216614091114
+    second: fantasy_4colors_tileset_frame_0_237
+  - first:
+      213: 5062903769988923430
+    second: fantasy_4colors_tileset_frame_0_238
+  - first:
+      213: -5848318884230567786
+    second: fantasy_4colors_tileset_frame_0_239
+  - first:
+      213: 1660503651047022934
+    second: fantasy_4colors_tileset_frame_0_240
+  - first:
+      213: -3360530268116613181
+    second: fantasy_4colors_tileset_frame_0_241
+  - first:
+      213: 5227527809777735894
+    second: fantasy_4colors_tileset_frame_0_242
+  - first:
+      213: -978007207304876540
+    second: fantasy_4colors_tileset_frame_0_243
+  - first:
+      213: 2293803429896282653
+    second: fantasy_4colors_tileset_frame_0_244
+  - first:
+      213: 3755870000608094613
+    second: fantasy_4colors_tileset_frame_0_245
+  - first:
+      213: 1147830126176405218
+    second: fantasy_4colors_tileset_frame_0_246
+  - first:
+      213: -454882462763027390
+    second: fantasy_4colors_tileset_frame_0_247
+  - first:
+      213: 7081821404232488287
+    second: fantasy_4colors_tileset_frame_0_248
+  - first:
+      213: 6196348950007429897
+    second: fantasy_4colors_tileset_frame_0_249
+  - first:
+      213: 6555997616510619851
+    second: fantasy_4colors_tileset_frame_0_250
+  - first:
+      213: -274169777901455233
+    second: fantasy_4colors_tileset_frame_0_251
+  - first:
+      213: 7226518915931143897
+    second: fantasy_4colors_tileset_frame_0_252
+  - first:
+      213: 5544094581613645645
+    second: fantasy_4colors_tileset_frame_0_253
+  - first:
+      213: 5797179707424680513
+    second: fantasy_4colors_tileset_frame_0_254
+  - first:
+      213: -1508792142279228485
+    second: fantasy_4colors_tileset_frame_0_255
+  - first:
+      213: 17829389000163350
+    second: fantasy_4colors_tileset_frame_0_256
+  - first:
+      213: -686172909980120857
+    second: fantasy_4colors_tileset_frame_0_257
+  - first:
+      213: -6058429550637928247
+    second: fantasy_4colors_tileset_frame_0_258
+  - first:
+      213: -8886304627923614267
+    second: fantasy_4colors_tileset_frame_0_259
+  - first:
+      213: 3440630575582768677
+    second: fantasy_4colors_tileset_frame_0_260
+  - first:
+      213: 3344341409946822994
+    second: fantasy_4colors_tileset_frame_0_261
+  - first:
+      213: 7347637670256639878
+    second: fantasy_4colors_tileset_frame_0_262
+  - first:
+      213: -5916012002103264923
+    second: fantasy_4colors_tileset_frame_0_263
+  - first:
+      213: -646007575898596267
+    second: fantasy_4colors_tileset_frame_0_264
+  - first:
+      213: -285678871777456880
+    second: fantasy_4colors_tileset_frame_0_265
+  - first:
+      213: 445158640372918039
+    second: fantasy_4colors_tileset_frame_0_266
+  - first:
+      213: -4439164374740072480
+    second: fantasy_4colors_tileset_frame_0_267
+  - first:
+      213: -2099678254160653995
+    second: fantasy_4colors_tileset_frame_0_268
+  - first:
+      213: 8131318039625696077
+    second: fantasy_4colors_tileset_frame_0_269
+  - first:
+      213: -7914098443650626466
+    second: fantasy_4colors_tileset_frame_0_270
+  - first:
+      213: 1078222966718112877
+    second: fantasy_4colors_tileset_frame_0_271
+  - first:
+      213: 262085835691441189
+    second: fantasy_4colors_tileset_frame_0_272
+  - first:
+      213: -3747711346638517329
+    second: fantasy_4colors_tileset_frame_0_273
+  - first:
+      213: 7390231770070317966
+    second: fantasy_4colors_tileset_frame_0_274
+  - first:
+      213: -3164264487711306956
+    second: fantasy_4colors_tileset_frame_0_275
+  - first:
+      213: -5603050630870452789
+    second: fantasy_4colors_tileset_frame_0_276
+  - first:
+      213: -2335800404409551865
+    second: fantasy_4colors_tileset_frame_0_277
+  - first:
+      213: -3609632681270750954
+    second: fantasy_4colors_tileset_frame_0_278
+  - first:
+      213: 206545235703374045
+    second: fantasy_4colors_tileset_frame_0_279
+  - first:
+      213: 3575864689356776662
+    second: fantasy_4colors_tileset_frame_0_280
+  - first:
+      213: -649045677115546835
+    second: fantasy_4colors_tileset_frame_0_281
+  - first:
+      213: 5213987182544783649
+    second: fantasy_4colors_tileset_frame_0_282
+  - first:
+      213: -471979632617311943
+    second: fantasy_4colors_tileset_frame_0_283
+  - first:
+      213: 7402892456040564509
+    second: fantasy_4colors_tileset_frame_0_284
+  - first:
+      213: -2900765985949045889
+    second: fantasy_4colors_tileset_frame_0_285
+  - first:
+      213: -3169371482581428862
+    second: fantasy_4colors_tileset_frame_0_286
+  - first:
+      213: -4754438624185588480
+    second: fantasy_4colors_tileset_frame_0_287
+  - first:
+      213: -3543269878403854103
+    second: fantasy_4colors_tileset_frame_0_288
+  - first:
+      213: 7335203002351980622
+    second: fantasy_4colors_tileset_frame_0_289
+  - first:
+      213: 670940257831237148
+    second: fantasy_4colors_tileset_frame_0_290
+  - first:
+      213: -5014074904380028933
+    second: fantasy_4colors_tileset_frame_0_291
+  - first:
+      213: 8653466015283309705
+    second: fantasy_4colors_tileset_frame_0_292
+  - first:
+      213: 8260116966279629076
+    second: fantasy_4colors_tileset_frame_0_293
+  - first:
+      213: 3881459849421415944
+    second: fantasy_4colors_tileset_frame_0_294
+  - first:
+      213: -1622712616531026967
+    second: fantasy_4colors_tileset_frame_0_295
+  - first:
+      213: 272522470362077762
+    second: fantasy_4colors_tileset_frame_0_296
+  - first:
+      213: 9198287981194304340
+    second: fantasy_4colors_tileset_frame_0_297
+  - first:
+      213: 3536390924365035825
+    second: fantasy_4colors_tileset_frame_0_298
+  - first:
+      213: 2552534371261068948
+    second: fantasy_4colors_tileset_frame_0_299
+  - first:
+      213: -8676363168985161748
+    second: fantasy_4colors_tileset_frame_0_300
+  - first:
+      213: 1610601856491340317
+    second: fantasy_4colors_tileset_frame_0_301
+  - first:
+      213: 2457493826622446995
+    second: fantasy_4colors_tileset_frame_0_302
+  - first:
+      213: -4530486512879012264
+    second: fantasy_4colors_tileset_frame_0_303
+  - first:
+      213: -8198483964373827262
+    second: fantasy_4colors_tileset_frame_0_304
+  - first:
+      213: 3282353964488283246
+    second: fantasy_4colors_tileset_frame_0_305
+  - first:
+      213: -8800157012376481501
+    second: fantasy_4colors_tileset_frame_0_306
+  - first:
+      213: 567981480836582526
+    second: fantasy_4colors_tileset_frame_0_307
+  - first:
+      213: -2785282596214673648
+    second: fantasy_4colors_tileset_frame_0_308
+  - first:
+      213: -4529533458552138601
+    second: fantasy_4colors_tileset_frame_0_309
+  - first:
+      213: -1200544146407274702
+    second: fantasy_4colors_tileset_frame_0_310
+  - first:
+      213: 493979181330045433
+    second: fantasy_4colors_tileset_frame_0_311
+  - first:
+      213: 7799175698602964486
+    second: fantasy_4colors_tileset_frame_0_312
+  - first:
+      213: -4432160157269103468
+    second: fantasy_4colors_tileset_frame_0_313
+  - first:
+      213: -3551672599168365658
+    second: fantasy_4colors_tileset_frame_0_314
+  - first:
+      213: -7305530826963822687
+    second: fantasy_4colors_tileset_frame_0_315
+  - first:
+      213: 5384156430316270297
+    second: fantasy_4colors_tileset_frame_0_316
+  - first:
+      213: 616571751707777318
+    second: fantasy_4colors_tileset_frame_0_317
+  - first:
+      213: 7446960375421483501
+    second: fantasy_4colors_tileset_frame_0_318
+  - first:
+      213: 1658616404994485610
+    second: fantasy_4colors_tileset_frame_0_319
+  - first:
+      213: 6841146451912300881
+    second: fantasy_4colors_tileset_frame_0_320
+  - first:
+      213: -7326356531323175661
+    second: fantasy_4colors_tileset_frame_0_321
+  - first:
+      213: 5837100030714521622
+    second: fantasy_4colors_tileset_frame_0_322
+  - first:
+      213: -722033450130631547
+    second: fantasy_4colors_tileset_frame_0_323
+  - first:
+      213: 2514275176071615108
+    second: fantasy_4colors_tileset_frame_0_324
+  - first:
+      213: 2265100845138909020
+    second: fantasy_4colors_tileset_frame_0_325
+  - first:
+      213: -8562841905311791726
+    second: fantasy_4colors_tileset_frame_0_326
+  - first:
+      213: -458293201746461481
+    second: fantasy_4colors_tileset_frame_0_327
+  - first:
+      213: -7641798014267360634
+    second: fantasy_4colors_tileset_frame_0_328
+  - first:
+      213: -1540447026465407099
+    second: fantasy_4colors_tileset_frame_0_329
+  - first:
+      213: -5779405573910289738
+    second: fantasy_4colors_tileset_frame_0_330
+  - first:
+      213: -6401082594061554401
+    second: fantasy_4colors_tileset_frame_0_331
+  - first:
+      213: 6531697991037182243
+    second: fantasy_4colors_tileset_frame_0_332
+  - first:
+      213: -4965982021840129281
+    second: fantasy_4colors_tileset_frame_0_333
+  - first:
+      213: 833098086941522714
+    second: fantasy_4colors_tileset_frame_0_334
+  - first:
+      213: 8848964413523240560
+    second: fantasy_4colors_tileset_frame_0_335
+  - first:
+      213: -8142479052071574427
+    second: fantasy_4colors_tileset_frame_0_336
+  - first:
+      213: -2953928667280226562
+    second: fantasy_4colors_tileset_frame_0_337
+  - first:
+      213: -3354298380157328246
+    second: fantasy_4colors_tileset_frame_0_338
+  - first:
+      213: -8033870865248491549
+    second: fantasy_4colors_tileset_frame_0_339
+  - first:
+      213: 2719578133412745442
+    second: fantasy_4colors_tileset_frame_0_340
+  - first:
+      213: -7368790025160195585
+    second: fantasy_4colors_tileset_frame_0_341
+  - first:
+      213: 1110682179521966728
+    second: fantasy_4colors_tileset_frame_0_342
+  - first:
+      213: -22684280511636616
+    second: fantasy_4colors_tileset_frame_0_343
+  - first:
+      213: 2743998120260315291
+    second: fantasy_4colors_tileset_frame_0_344
+  - first:
+      213: -1298609553219905543
+    second: fantasy_4colors_tileset_frame_0_345
+  - first:
+      213: 2326726081675348849
+    second: fantasy_4colors_tileset_frame_0_346
+  - first:
+      213: -7362806491453168092
+    second: fantasy_4colors_tileset_frame_0_347
+  - first:
+      213: 98246221813105049
+    second: fantasy_4colors_tileset_frame_0_348
+  - first:
+      213: 1432025710911650801
+    second: fantasy_4colors_tileset_frame_0_349
+  - first:
+      213: -1245988006851462773
+    second: fantasy_4colors_tileset_frame_0_350
+  - first:
+      213: -8071195836376613343
+    second: fantasy_4colors_tileset_frame_0_351
+  - first:
+      213: 5478960701338033624
+    second: fantasy_4colors_tileset_frame_0_352
+  - first:
+      213: -1519962741906774806
+    second: fantasy_4colors_tileset_frame_0_353
+  - first:
+      213: -1448719305517832675
+    second: fantasy_4colors_tileset_frame_0_354
+  - first:
+      213: 8814093267550689757
+    second: fantasy_4colors_tileset_frame_0_355
+  - first:
+      213: 2950732062623184714
+    second: fantasy_4colors_tileset_frame_0_356
+  - first:
+      213: 368694323826457432
+    second: fantasy_4colors_tileset_frame_0_357
+  - first:
+      213: 4082049832209479466
+    second: fantasy_4colors_tileset_frame_0_358
+  - first:
+      213: 8963370660598075844
+    second: fantasy_4colors_tileset_frame_0_359
+  - first:
+      213: 7220356184207502512
+    second: fantasy_4colors_tileset_frame_0_360
+  - first:
+      213: 8288149896088165533
+    second: fantasy_4colors_tileset_frame_0_361
+  - first:
+      213: -4612973569496881042
+    second: fantasy_4colors_tileset_frame_0_362
+  - first:
+      213: -688286836789265388
+    second: fantasy_4colors_tileset_frame_0_363
+  - first:
+      213: 7832529874152805466
+    second: fantasy_4colors_tileset_frame_0_364
+  - first:
+      213: 4563474091973843109
+    second: fantasy_4colors_tileset_frame_0_365
+  - first:
+      213: 6928931217010288778
+    second: fantasy_4colors_tileset_frame_0_366
+  - first:
+      213: -3807286500518215573
+    second: fantasy_4colors_tileset_frame_0_367
+  - first:
+      213: 4764752895436666571
+    second: fantasy_4colors_tileset_frame_0_368
+  - first:
+      213: -8684826128248771331
+    second: fantasy_4colors_tileset_frame_0_369
+  - first:
+      213: 741197451728978754
+    second: fantasy_4colors_tileset_frame_0_370
+  - first:
+      213: -6431008893638147863
+    second: fantasy_4colors_tileset_frame_0_371
+  - first:
+      213: -6019027871889281118
+    second: fantasy_4colors_tileset_frame_0_372
+  - first:
+      213: 6490453019419239246
+    second: fantasy_4colors_tileset_frame_0_373
+  - first:
+      213: -5610708085237453169
+    second: fantasy_4colors_tileset_frame_0_374
+  - first:
+      213: -6994239705174707451
+    second: fantasy_4colors_tileset_frame_0_375
+  - first:
+      213: -1961400464342373387
+    second: fantasy_4colors_tileset_frame_0_376
+  - first:
+      213: 4659427681469407044
+    second: fantasy_4colors_tileset_frame_0_377
+  - first:
+      213: 9096840335308570241
+    second: fantasy_4colors_tileset_frame_0_378
+  - first:
+      213: 6284004930089750215
+    second: fantasy_4colors_tileset_frame_0_379
+  - first:
+      213: 6193568781383175970
+    second: fantasy_4colors_tileset_frame_0_380
+  - first:
+      213: 7734797555868398468
+    second: fantasy_4colors_tileset_frame_0_381
+  - first:
+      213: 1146112639054491499
+    second: fantasy_4colors_tileset_frame_0_382
+  - first:
+      213: -4988973172362182328
+    second: fantasy_4colors_tileset_frame_0_383
+  - first:
+      213: 1457158795732763282
+    second: fantasy_4colors_tileset_frame_0_384
+  - first:
+      213: -8629940405092948360
+    second: fantasy_4colors_tileset_frame_0_385
+  - first:
+      213: -2360176968897138454
+    second: fantasy_4colors_tileset_frame_0_386
+  - first:
+      213: -3888148883171928505
+    second: fantasy_4colors_tileset_frame_0_387
+  - first:
+      213: -8798036386815733882
+    second: fantasy_4colors_tileset_frame_0_388
+  - first:
+      213: 5647193567784733857
+    second: fantasy_4colors_tileset_frame_0_389
+  - first:
+      213: 2766656286266152399
+    second: fantasy_4colors_tileset_frame_0_390
+  - first:
+      213: -7707772433245104118
+    second: fantasy_4colors_tileset_frame_0_391
+  - first:
+      213: -2251431785302720487
+    second: fantasy_4colors_tileset_frame_0_392
+  - first:
+      213: 1416128578121348968
+    second: fantasy_4colors_tileset_frame_0_393
+  - first:
+      213: 6551968572587723822
+    second: fantasy_4colors_tileset_frame_0_394
+  - first:
+      213: -6860268459042201753
+    second: fantasy_4colors_tileset_frame_0_395
+  - first:
+      213: -4018184484330211831
+    second: fantasy_4colors_tileset_frame_0_396
+  - first:
+      213: -5458878834768301633
+    second: fantasy_4colors_tileset_frame_0_397
+  - first:
+      213: -895967602986484830
+    second: fantasy_4colors_tileset_frame_0_398
+  - first:
+      213: -397507501295921628
+    second: fantasy_4colors_tileset_frame_0_399
+  - first:
+      213: -2361814421812947832
+    second: fantasy_4colors_tileset_frame_0_400
+  - first:
+      213: -5193852920725626626
+    second: fantasy_4colors_tileset_frame_0_401
+  - first:
+      213: 3018458796066833233
+    second: fantasy_4colors_tileset_frame_0_402
+  - first:
+      213: 4335533474155840226
+    second: fantasy_4colors_tileset_frame_0_403
+  - first:
+      213: -991716141095397660
+    second: fantasy_4colors_tileset_frame_0_404
+  - first:
+      213: -6616810374367148099
+    second: fantasy_4colors_tileset_frame_0_405
+  - first:
+      213: -2806292805006891225
+    second: fantasy_4colors_tileset_frame_0_406
+  - first:
+      213: -1346916776990535040
+    second: fantasy_4colors_tileset_frame_0_407
+  - first:
+      213: -6906677946317725134
+    second: fantasy_4colors_tileset_frame_0_408
+  - first:
+      213: 4779400434697140674
+    second: fantasy_4colors_tileset_frame_0_409
+  - first:
+      213: 8202268912597259197
+    second: fantasy_4colors_tileset_frame_0_410
+  - first:
+      213: 3933873180686285666
+    second: fantasy_4colors_tileset_frame_0_411
+  - first:
+      213: 5681506098750432138
+    second: fantasy_4colors_tileset_frame_0_412
+  - first:
+      213: -3893081010734973123
+    second: fantasy_4colors_tileset_frame_0_413
+  - first:
+      213: 7815154201161579042
+    second: fantasy_4colors_tileset_frame_0_414
+  - first:
+      213: 8043278408574524577
+    second: fantasy_4colors_tileset_frame_0_415
+  - first:
+      213: 6153250352300490857
+    second: fantasy_4colors_tileset_frame_0_416
+  - first:
+      213: -4949734932459849018
+    second: fantasy_4colors_tileset_frame_0_417
+  - first:
+      213: -8837684532124082549
+    second: fantasy_4colors_tileset_frame_0_418
+  - first:
+      213: 66924604003499003
+    second: fantasy_4colors_tileset_frame_0_419
+  - first:
+      213: 8906977670603650713
+    second: fantasy_4colors_tileset_frame_0_420
+  - first:
+      213: 5960817037261916734
+    second: fantasy_4colors_tileset_frame_0_421
+  - first:
+      213: 6099091056195176242
+    second: fantasy_4colors_tileset_frame_0_422
+  - first:
+      213: -4600717695830773606
+    second: fantasy_4colors_tileset_frame_0_423
+  - first:
+      213: -1757566678475509210
+    second: fantasy_4colors_tileset_frame_0_424
+  - first:
+      213: -2697390338874696444
+    second: fantasy_4colors_tileset_frame_0_425
+  - first:
+      213: 1792831305549690629
+    second: fantasy_4colors_tileset_frame_0_426
+  - first:
+      213: -2347316138474943142
+    second: fantasy_4colors_tileset_frame_0_427
+  - first:
+      213: -1475241402395351884
+    second: fantasy_4colors_tileset_frame_0_428
+  - first:
+      213: 1813281366249181923
+    second: fantasy_4colors_tileset_frame_0_429
+  - first:
+      213: 6284295536634644328
+    second: fantasy_4colors_tileset_frame_0_430
+  - first:
+      213: 8519330423778271508
+    second: fantasy_4colors_tileset_frame_0_431
+  - first:
+      213: 3427370287637965520
+    second: fantasy_4colors_tileset_frame_0_432
+  - first:
+      213: 3343223820284533807
+    second: fantasy_4colors_tileset_frame_0_433
+  - first:
+      213: -4089625093716499113
+    second: fantasy_4colors_tileset_frame_0_434
+  - first:
+      213: -8340059786267698633
+    second: fantasy_4colors_tileset_frame_0_435
+  - first:
+      213: 1852674758822606066
+    second: fantasy_4colors_tileset_frame_0_436
+  - first:
+      213: -7670341740861261738
+    second: fantasy_4colors_tileset_frame_0_437
+  - first:
+      213: -1689555527376193134
+    second: fantasy_4colors_tileset_frame_0_438
+  - first:
+      213: 3702231499126630635
+    second: fantasy_4colors_tileset_frame_0_439
+  - first:
+      213: 3980366314348916623
+    second: fantasy_4colors_tileset_frame_0_440
+  - first:
+      213: 2410775508410135928
+    second: fantasy_4colors_tileset_frame_0_441
+  - first:
+      213: 3569770092811013418
+    second: fantasy_4colors_tileset_frame_0_442
+  - first:
+      213: -6924217014266448859
+    second: fantasy_4colors_tileset_frame_0_443
+  - first:
+      213: -4517734036694914479
+    second: fantasy_4colors_tileset_frame_0_444
+  - first:
+      213: 4437115282371726249
+    second: fantasy_4colors_tileset_frame_0_445
+  - first:
+      213: 3113518579861924698
+    second: fantasy_4colors_tileset_frame_0_446
+  - first:
+      213: 8841724569224164406
+    second: fantasy_4colors_tileset_frame_0_447
+  - first:
+      213: -7069581676175202418
+    second: fantasy_4colors_tileset_frame_0_448
+  - first:
+      213: 4222334160514360222
+    second: fantasy_4colors_tileset_frame_0_449
+  - first:
+      213: 8807158476022005218
+    second: fantasy_4colors_tileset_frame_0_450
+  - first:
+      213: 2621367409434780658
+    second: fantasy_4colors_tileset_frame_0_451
+  - first:
+      213: 4792829606311106025
+    second: fantasy_4colors_tileset_frame_0_452
+  - first:
+      213: -7562569751304279670
+    second: fantasy_4colors_tileset_frame_0_453
+  - first:
+      213: 6919030389780727955
+    second: fantasy_4colors_tileset_frame_0_454
+  - first:
+      213: -1079094918626330055
+    second: fantasy_4colors_tileset_frame_0_455
+  - first:
+      213: -901019108214229906
+    second: fantasy_4colors_tileset_frame_0_456
+  - first:
+      213: 5037376272167861520
+    second: fantasy_4colors_tileset_frame_0_457
+  - first:
+      213: -494280100707405200
+    second: fantasy_4colors_tileset_frame_0_458
+  - first:
+      213: -4822808113174482540
+    second: fantasy_4colors_tileset_frame_0_459
+  - first:
+      213: -560176137597217322
+    second: fantasy_4colors_tileset_frame_0_460
+  - first:
+      213: -5115824332402453242
+    second: fantasy_4colors_tileset_frame_0_461
+  - first:
+      213: 6055455250880099313
+    second: fantasy_4colors_tileset_frame_0_462
+  - first:
+      213: 40476739404633436
+    second: fantasy_4colors_tileset_frame_0_463
+  - first:
+      213: -6975179714438301559
+    second: fantasy_4colors_tileset_frame_0_464
+  - first:
+      213: -7637853290530197296
+    second: fantasy_4colors_tileset_frame_0_465
+  - first:
+      213: -347766804871780127
+    second: fantasy_4colors_tileset_frame_0_466
+  - first:
+      213: 1806391880192715900
+    second: fantasy_4colors_tileset_frame_0_467
+  - first:
+      213: -4992081593254322000
+    second: fantasy_4colors_tileset_frame_0_468
+  - first:
+      213: -127284213974512783
+    second: fantasy_4colors_tileset_frame_0_469
+  - first:
+      213: -5693484169887554227
+    second: fantasy_4colors_tileset_frame_0_470
+  - first:
+      213: 2735208519555591362
+    second: fantasy_4colors_tileset_frame_0_471
+  - first:
+      213: 581678678779924055
+    second: fantasy_4colors_tileset_frame_0_472
+  - first:
+      213: 4213798368118457395
+    second: fantasy_4colors_tileset_frame_0_473
+  - first:
+      213: -741759063721197506
+    second: fantasy_4colors_tileset_frame_0_474
+  - first:
+      213: 2489190073798158276
+    second: fantasy_4colors_tileset_frame_0_475
+  - first:
+      213: 2514557702320120416
+    second: fantasy_4colors_tileset_frame_0_476
+  - first:
+      213: 9184116511589726328
+    second: fantasy_4colors_tileset_frame_0_477
+  - first:
+      213: -7610573465497181307
+    second: fantasy_4colors_tileset_frame_0_478
+  - first:
+      213: -6547807906307547796
+    second: fantasy_4colors_tileset_frame_0_479
+  - first:
+      213: -7431585877519112389
+    second: fantasy_4colors_tileset_frame_0_480
+  - first:
+      213: 7028542504038871554
+    second: fantasy_4colors_tileset_frame_0_481
+  - first:
+      213: -2799740016169571658
+    second: fantasy_4colors_tileset_frame_0_482
+  - first:
+      213: -2284068604540001278
+    second: fantasy_4colors_tileset_frame_0_483
+  - first:
+      213: -183736991760804186
+    second: fantasy_4colors_tileset_frame_0_484
+  - first:
+      213: 4914933535351562472
+    second: fantasy_4colors_tileset_frame_0_485
+  - first:
+      213: -6257586133963868829
+    second: fantasy_4colors_tileset_frame_0_486
+  - first:
+      213: -1744014851567042061
+    second: fantasy_4colors_tileset_frame_0_487
+  - first:
+      213: 5850899133169702741
+    second: fantasy_4colors_tileset_frame_0_488
+  - first:
+      213: 4493429762864439517
+    second: fantasy_4colors_tileset_frame_0_489
+  - first:
+      213: -4752771104234812872
+    second: fantasy_4colors_tileset_frame_0_490
+  - first:
+      213: 7082697540363775294
+    second: fantasy_4colors_tileset_frame_0_491
+  - first:
+      213: -1359883195291003156
+    second: fantasy_4colors_tileset_frame_0_492
+  - first:
+      213: 1726216897075438249
+    second: fantasy_4colors_tileset_frame_0_493
+  - first:
+      213: -8652014882377183261
+    second: fantasy_4colors_tileset_frame_0_494
+  - first:
+      213: 7021931082614739792
+    second: fantasy_4colors_tileset_frame_0_495
+  - first:
+      213: -5219465409198155416
+    second: fantasy_4colors_tileset_frame_0_496
+  - first:
+      213: 2155696160316352631
+    second: fantasy_4colors_tileset_frame_0_497
+  - first:
+      213: -352058077203034880
+    second: fantasy_4colors_tileset_frame_0_498
+  - first:
+      213: 9066947443614923168
+    second: fantasy_4colors_tileset_frame_0_499
+  - first:
+      213: 1668230410165036111
+    second: fantasy_4colors_tileset_frame_0_500
+  - first:
+      213: -4077121708641809789
+    second: fantasy_4colors_tileset_frame_0_501
+  - first:
+      213: -1015486429891655152
+    second: fantasy_4colors_tileset_frame_0_502
+  - first:
+      213: -4597320025941151367
+    second: fantasy_4colors_tileset_frame_0_503
+  - first:
+      213: 8196389154801924343
+    second: fantasy_4colors_tileset_frame_0_504
+  - first:
+      213: 8036459489407713663
+    second: fantasy_4colors_tileset_frame_0_505
+  - first:
+      213: 1274055184257892206
+    second: fantasy_4colors_tileset_frame_0_506
+  - first:
+      213: 8052500859058471982
+    second: fantasy_4colors_tileset_frame_0_507
+  - first:
+      213: 5352114421270031407
+    second: fantasy_4colors_tileset_frame_0_508
+  - first:
+      213: 9190521587122656891
+    second: fantasy_4colors_tileset_frame_0_509
+  - first:
+      213: -8687493232441746894
+    second: fantasy_4colors_tileset_frame_0_510
+  - first:
+      213: -6992488569636372456
+    second: fantasy_4colors_tileset_frame_0_511
+  - first:
+      213: -7675755425312117554
+    second: fantasy_4colors_tileset_frame_0_512
+  - first:
+      213: 6332277643847929349
+    second: fantasy_4colors_tileset_frame_0_513
+  - first:
+      213: -573974466511989392
+    second: fantasy_4colors_tileset_frame_0_514
+  - first:
+      213: -3942972524921867837
+    second: fantasy_4colors_tileset_frame_0_515
+  - first:
+      213: -4328135688889099584
+    second: fantasy_4colors_tileset_frame_0_516
+  - first:
+      213: -450737903514131897
+    second: fantasy_4colors_tileset_frame_0_517
+  - first:
+      213: 3176180468495509039
+    second: fantasy_4colors_tileset_frame_0_518
+  - first:
+      213: 85031806944028919
+    second: fantasy_4colors_tileset_frame_0_519
+  - first:
+      213: -388560551283043255
+    second: fantasy_4colors_tileset_frame_0_520
+  - first:
+      213: 742314131210592092
+    second: fantasy_4colors_tileset_frame_0_521
+  - first:
+      213: -2485205160567891374
+    second: fantasy_4colors_tileset_frame_0_522
+  - first:
+      213: -8124728401838473692
+    second: fantasy_4colors_tileset_frame_0_523
+  - first:
+      213: 8608417567983683578
+    second: fantasy_4colors_tileset_frame_0_524
+  - first:
+      213: 2393799463525198401
+    second: fantasy_4colors_tileset_frame_0_525
+  - first:
+      213: 7151508669578307675
+    second: fantasy_4colors_tileset_frame_0_526
+  - first:
+      213: -6981583822401360696
+    second: fantasy_4colors_tileset_frame_0_527
+  - first:
+      213: -2435499822233913597
+    second: fantasy_4colors_tileset_frame_0_528
+  - first:
+      213: -6875113584520971052
+    second: fantasy_4colors_tileset_frame_0_529
+  - first:
+      213: 6171628515476333299
+    second: fantasy_4colors_tileset_frame_0_530
+  - first:
+      213: -5639222466036987068
+    second: fantasy_4colors_tileset_frame_0_531
+  - first:
+      213: 3798691876364128653
+    second: fantasy_4colors_tileset_frame_0_532
+  - first:
+      213: -6434490216760839067
+    second: fantasy_4colors_tileset_frame_0_533
+  - first:
+      213: 8117857906445467073
+    second: fantasy_4colors_tileset_frame_0_534
+  - first:
+      213: 4304075088184743289
+    second: fantasy_4colors_tileset_frame_0_535
+  - first:
+      213: -2735305800805483020
+    second: fantasy_4colors_tileset_frame_0_536
+  - first:
+      213: 6133050552953697901
+    second: fantasy_4colors_tileset_frame_0_537
+  - first:
+      213: -1737631596134406439
+    second: fantasy_4colors_tileset_frame_0_538
+  - first:
+      213: 2417988223696890399
+    second: fantasy_4colors_tileset_frame_0_539
+  - first:
+      213: 2786486081988532931
+    second: fantasy_4colors_tileset_frame_0_540
+  - first:
+      213: 9156562285232637108
+    second: fantasy_4colors_tileset_frame_0_541
+  - first:
+      213: 5182079106915134071
+    second: fantasy_4colors_tileset_frame_0_542
+  - first:
+      213: -3101190239160282915
+    second: fantasy_4colors_tileset_frame_0_543
+  - first:
+      213: 1631145382841143510
+    second: fantasy_4colors_tileset_frame_0_544
+  - first:
+      213: 4397148258936038620
+    second: fantasy_4colors_tileset_frame_0_545
+  - first:
+      213: 548814407321809080
+    second: fantasy_4colors_tileset_frame_0_546
+  - first:
+      213: 3584363341186818378
+    second: fantasy_4colors_tileset_frame_0_547
+  - first:
+      213: 3066423924543127598
+    second: fantasy_4colors_tileset_frame_0_548
+  - first:
+      213: -5178441409157376187
+    second: fantasy_4colors_tileset_frame_0_549
+  - first:
+      213: 3525632857221228591
+    second: fantasy_4colors_tileset_frame_0_550
+  - first:
+      213: -7340972563156915102
+    second: fantasy_4colors_tileset_frame_0_551
+  - first:
+      213: 1579166726231791663
+    second: fantasy_4colors_tileset_frame_0_552
+  - first:
+      213: 1046481049498054679
+    second: fantasy_4colors_tileset_frame_0_553
+  - first:
+      213: -8280520905421548335
+    second: fantasy_4colors_tileset_frame_0_554
+  - first:
+      213: 8336606460700378248
+    second: fantasy_4colors_tileset_frame_0_555
+  - first:
+      213: 7005132137519991635
+    second: fantasy_4colors_tileset_frame_0_556
+  - first:
+      213: 5145726713144897790
+    second: fantasy_4colors_tileset_frame_0_557
+  - first:
+      213: -9124263973555203206
+    second: fantasy_4colors_tileset_frame_0_558
+  - first:
+      213: -2248651113354552047
+    second: fantasy_4colors_tileset_frame_0_559
+  - first:
+      213: -1529356241777056572
+    second: fantasy_4colors_tileset_frame_0_560
+  - first:
+      213: -1883815720055975283
+    second: fantasy_4colors_tileset_frame_0_561
+  - first:
+      213: -2069674505481979501
+    second: fantasy_4colors_tileset_frame_0_562
+  - first:
+      213: 6353300600141900125
+    second: fantasy_4colors_tileset_frame_0_563
+  - first:
+      213: 6525096069468042230
+    second: fantasy_4colors_tileset_frame_0_564
+  - first:
+      213: -4168185595394276608
+    second: fantasy_4colors_tileset_frame_0_565
+  - first:
+      213: -176457496989261136
+    second: fantasy_4colors_tileset_frame_0_566
+  - first:
+      213: -7282644729091100153
+    second: fantasy_4colors_tileset_frame_0_567
+  - first:
+      213: -4097778472697498514
+    second: fantasy_4colors_tileset_frame_0_568
+  - first:
+      213: 574876531996195775
+    second: fantasy_4colors_tileset_frame_0_569
+  - first:
+      213: 5859271235829090323
+    second: fantasy_4colors_tileset_frame_0_570
+  - first:
+      213: 8254020675659782680
+    second: fantasy_4colors_tileset_frame_0_571
+  - first:
+      213: 6542676520895539050
+    second: fantasy_4colors_tileset_frame_0_572
+  - first:
+      213: 6786028835353443202
+    second: fantasy_4colors_tileset_frame_0_573
+  - first:
+      213: 3405025769959611484
+    second: fantasy_4colors_tileset_frame_0_574
+  - first:
+      213: -9033678174467066802
+    second: fantasy_4colors_tileset_frame_0_575
+  - first:
+      213: 6888178865929399901
+    second: fantasy_4colors_tileset_frame_0_576
+  - first:
+      213: 7713760116876281138
+    second: fantasy_4colors_tileset_frame_0_577
+  - first:
+      213: -2687039959300750671
+    second: fantasy_4colors_tileset_frame_0_578
+  - first:
+      213: -5546428594934536400
+    second: fantasy_4colors_tileset_frame_0_579
+  - first:
+      213: 8378620325175271400
+    second: fantasy_4colors_tileset_frame_0_580
+  - first:
+      213: -8945997012861386131
+    second: fantasy_4colors_tileset_frame_0_581
+  - first:
+      213: -5542343956820665479
+    second: fantasy_4colors_tileset_frame_0_582
+  - first:
+      213: 4267981284923753204
+    second: fantasy_4colors_tileset_frame_0_583
+  - first:
+      213: -6833953682127750400
+    second: fantasy_4colors_tileset_frame_0_584
+  - first:
+      213: 1120845566732687900
+    second: fantasy_4colors_tileset_frame_0_585
+  - first:
+      213: 7889344293790656345
+    second: fantasy_4colors_tileset_frame_0_586
+  - first:
+      213: -1372552306858575886
+    second: fantasy_4colors_tileset_frame_0_587
+  - first:
+      213: 3748572695407354353
+    second: fantasy_4colors_tileset_frame_0_588
+  - first:
+      213: 1609535068820528141
+    second: fantasy_4colors_tileset_frame_0_589
+  - first:
+      213: -9003882452010991491
+    second: fantasy_4colors_tileset_frame_0_590
+  - first:
+      213: 5404196668201347691
+    second: fantasy_4colors_tileset_frame_0_591
+  - first:
+      213: -4596487488867507382
+    second: fantasy_4colors_tileset_frame_0_592
+  - first:
+      213: 6918972733936331679
+    second: fantasy_4colors_tileset_frame_0_593
+  - first:
+      213: -222844187353695468
+    second: fantasy_4colors_tileset_frame_0_594
+  - first:
+      213: -5232149156243062984
+    second: fantasy_4colors_tileset_frame_0_595
+  - first:
+      213: -2598146949001837417
+    second: fantasy_4colors_tileset_frame_0_596
+  - first:
+      213: 6536173080024762062
+    second: fantasy_4colors_tileset_frame_0_597
+  - first:
+      213: 233702757811957215
+    second: fantasy_4colors_tileset_frame_0_598
+  - first:
+      213: 5107506901525245577
+    second: fantasy_4colors_tileset_frame_0_599
+  - first:
+      213: 8805809871649776572
+    second: fantasy_4colors_tileset_frame_0_600
+  - first:
+      213: -5268344210928760409
+    second: fantasy_4colors_tileset_frame_0_601
+  - first:
+      213: 7568024576550653296
+    second: fantasy_4colors_tileset_frame_0_602
+  - first:
+      213: 309346183118095309
+    second: fantasy_4colors_tileset_frame_0_603
+  - first:
+      213: 5590854511930218821
+    second: fantasy_4colors_tileset_frame_0_604
+  - first:
+      213: 1899527005168486034
+    second: fantasy_4colors_tileset_frame_0_605
+  - first:
+      213: 625479774022991125
+    second: fantasy_4colors_tileset_frame_0_606
+  - first:
+      213: 1286586607010845902
+    second: fantasy_4colors_tileset_frame_0_607
+  - first:
+      213: -7031999965877203769
+    second: fantasy_4colors_tileset_frame_0_608
+  - first:
+      213: -7024065864436963205
+    second: fantasy_4colors_tileset_frame_0_609
+  - first:
+      213: 9222176550054393815
+    second: fantasy_4colors_tileset_frame_0_610
+  - first:
+      213: 3220424172911419342
+    second: fantasy_4colors_tileset_frame_0_611
+  - first:
+      213: -1077611437616501232
+    second: fantasy_4colors_tileset_frame_0_612
+  - first:
+      213: -4345242752953519645
+    second: fantasy_4colors_tileset_frame_0_613
+  - first:
+      213: -1767256558578434644
+    second: fantasy_4colors_tileset_frame_0_614
+  - first:
+      213: -2278575335174003460
+    second: fantasy_4colors_tileset_frame_0_615
+  - first:
+      213: 236758051968224273
+    second: fantasy_4colors_tileset_frame_0_616
+  - first:
+      213: 5512519600478611686
+    second: fantasy_4colors_tileset_frame_0_617
+  - first:
+      213: -2762351926375439321
+    second: fantasy_4colors_tileset_frame_0_618
+  - first:
+      213: 7564834419169323799
+    second: fantasy_4colors_tileset_frame_0_619
+  - first:
+      213: 1678970794448404495
+    second: fantasy_4colors_tileset_frame_0_620
+  - first:
+      213: 3277108730637469137
+    second: fantasy_4colors_tileset_frame_0_621
+  - first:
+      213: -5075628073666878217
+    second: fantasy_4colors_tileset_frame_0_622
+  - first:
+      213: -5323338570935600359
+    second: fantasy_4colors_tileset_frame_0_623
+  - first:
+      213: 2950320164495012141
+    second: fantasy_4colors_tileset_frame_0_624
+  - first:
+      213: -86352092566042686
+    second: fantasy_4colors_tileset_frame_0_625
+  - first:
+      213: 8570510274069424503
+    second: fantasy_4colors_tileset_frame_0_626
+  - first:
+      213: 8449591474246240567
+    second: fantasy_4colors_tileset_frame_0_627
+  - first:
+      213: 1490754653874044398
+    second: fantasy_4colors_tileset_frame_0_628
+  - first:
+      213: 8870751072043655043
+    second: fantasy_4colors_tileset_frame_0_629
+  - first:
+      213: -7611009936375992301
+    second: fantasy_4colors_tileset_frame_0_630
+  - first:
+      213: 4119362401486943888
+    second: fantasy_4colors_tileset_frame_0_631
+  - first:
+      213: 6888815522083074150
+    second: fantasy_4colors_tileset_frame_0_632
+  - first:
+      213: 531079773502271799
+    second: fantasy_4colors_tileset_frame_0_633
+  - first:
+      213: -2473806398649801204
+    second: fantasy_4colors_tileset_frame_0_634
+  - first:
+      213: -166871938481024688
+    second: fantasy_4colors_tileset_frame_0_635
+  - first:
+      213: -9067496411926227527
+    second: fantasy_4colors_tileset_frame_0_636
+  - first:
+      213: -4309274831388571969
+    second: fantasy_4colors_tileset_frame_0_637
+  - first:
+      213: 2537840397455984714
+    second: fantasy_4colors_tileset_frame_0_638
+  - first:
+      213: -3712742176262883239
+    second: fantasy_4colors_tileset_frame_0_639
+  - first:
+      213: 581214270114003823
+    second: fantasy_4colors_tileset_frame_0_640
+  - first:
+      213: -2007643836535356454
+    second: fantasy_4colors_tileset_frame_0_641
+  - first:
+      213: -8723183163405140296
+    second: fantasy_4colors_tileset_frame_0_642
+  - first:
+      213: -660658521580083796
+    second: fantasy_4colors_tileset_frame_0_643
+  - first:
+      213: -8145247049931543317
+    second: fantasy_4colors_tileset_frame_0_644
+  - first:
+      213: 3465989421088984633
+    second: fantasy_4colors_tileset_frame_0_645
+  - first:
+      213: 4182361848057959415
+    second: fantasy_4colors_tileset_frame_0_646
+  - first:
+      213: -2791968765731705345
+    second: fantasy_4colors_tileset_frame_0_647
+  - first:
+      213: -2357096829519313847
+    second: fantasy_4colors_tileset_frame_0_648
+  - first:
+      213: -6756944789437339936
+    second: fantasy_4colors_tileset_frame_0_649
+  - first:
+      213: -6191402684271861954
+    second: fantasy_4colors_tileset_frame_0_650
+  - first:
+      213: 8491118426553651826
+    second: fantasy_4colors_tileset_frame_0_651
+  - first:
+      213: 4240255111323194588
+    second: fantasy_4colors_tileset_frame_0_652
+  - first:
+      213: 2287219761978502282
+    second: fantasy_4colors_tileset_frame_0_653
+  - first:
+      213: -2964878107041397859
+    second: fantasy_4colors_tileset_frame_0_654
+  - first:
+      213: -18105140346224764
+    second: fantasy_4colors_tileset_frame_0_655
+  - first:
+      213: 7895916864185778838
+    second: fantasy_4colors_tileset_frame_0_656
+  - first:
+      213: -1970575476188495462
+    second: fantasy_4colors_tileset_frame_0_657
+  - first:
+      213: 6069569682125361305
+    second: fantasy_4colors_tileset_frame_0_658
+  - first:
+      213: 3361548610306326364
+    second: fantasy_4colors_tileset_frame_0_659
+  - first:
+      213: 2763114295101165967
+    second: fantasy_4colors_tileset_frame_0_660
+  - first:
+      213: -189983843970627455
+    second: fantasy_4colors_tileset_frame_0_661
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f3f9b2878c87b570800000000000000
+      internalID: 8482402936817316857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b26bd02a40c916380800000000000000
+      internalID: -8979724638287448533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a79086341fb6de960800000000000000
+      internalID: 7632875627425040762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a3fcb77a2605a9b0800000000000000
+      internalID: -5069639026068360282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 982c9f345d26da240800000000000000
+      internalID: 4804605045582185097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51fc063153e86ff80800000000000000
+      internalID: -8073108923405512939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6385da4210cd0f9c0800000000000000
+      internalID: -3895371780207060938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfafef063c2dbe840800000000000000
+      internalID: 5254525126845594365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc7973df5e511e50800000000000000
+      internalID: 6778302679832165560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56fc91f6ee0970ca0800000000000000
+      internalID: -6050708220608393371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af19cd7716f521220800000000000000
+      internalID: 2455129619097752058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_11
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f94bf0c6c8c4fb0800000000000000
+      internalID: -4662197118487453873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 269c9abcc94fae7a0800000000000000
+      internalID: -6346991770556315294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_13
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c840417f4f74670800000000000000
+      internalID: 8523050161851894832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_14
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9daddd242689d0840800000000000000
+      internalID: 5191973493224102617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_15
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c67af455d56ce70800000000000000
+      internalID: 9135091515157605484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_16
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37df6cfab13d91bf0800000000000000
+      internalID: -353018979905241741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_17
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d753d6f7a903170800000000000000
+      internalID: 8156188797251714463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_18
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bfe9b0f74a0789e0800000000000000
+      internalID: -1619314236918730827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_19
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c8ffb196a890430800000000000000
+      internalID: 3749680348808580221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e960f5ccf0f2ec720800000000000000
+      internalID: 2868281757581379230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_21
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce41a0bcb0f86f770800000000000000
+      internalID: 8644253815598093548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_22
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2632b3abde024c510800000000000000
+      internalID: 1568414775635551074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_23
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 237ba98557f35e610800000000000000
+      internalID: 1649794611731412786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3229773f0af3ec90800000000000000
+      internalID: -7141589640817335746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_25
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee550bdc906a3530800000000000000
+      internalID: 3835484259465125602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_26
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c531ae5d85bdb8700800000000000000
+      internalID: 543769354620769116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_27
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 892b600da31c9b300800000000000000
+      internalID: 268458111147618968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_28
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d24c5dd8eb590d30800000000000000
+      internalID: 4398147566808351445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_29
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b62c6c4c6af1eca80800000000000000
+      internalID: -8444777450146708885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_30
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b312420d42f213bb0800000000000000
+      internalID: -4958129879600848581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_31
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ee69238651afdc0800000000000000
+      internalID: -3604545014487126433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_32
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82eebebe45d89ef70800000000000000
+      internalID: 9217053508265307688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_33
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0588e44214531e150800000000000000
+      internalID: 5900055540730333264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_34
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71bb50a2a68233610800000000000000
+      internalID: 1599666729083321111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_35
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f21d3b7edc546d00800000000000000
+      internalID: 964998330784223992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 634036bcd674479e0800000000000000
+      internalID: -1624595028684635082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_37
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb703a5a91d1fc50800000000000000
+      internalID: 6697364581744933820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_38
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f6fbe2bd0099bc40800000000000000
+      internalID: 5528608406084777713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_39
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba950f747d695c7f0800000000000000
+      internalID: -592901924560283221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_40
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d80f13dde43641e10800000000000000
+      internalID: 2167466511041687693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_41
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1eb7af3b679eb070800000000000000
+      internalID: 8124097264708206111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_42
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e50224323b7715be0800000000000000
+      internalID: -1490278390408535970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_43
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ecf788482d1017d0800000000000000
+      internalID: -2949825697074905884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_44
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f082a3414fcd9d10800000000000000
+      internalID: 2134089677658030324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_45
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f48d7aa822b7880800000000000000
+      internalID: -8612251883499139295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_46
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 236c2716001cab4b0800000000000000
+      internalID: -5423810593835268558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_47
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56dcb413cac10b270800000000000000
+      internalID: 8264136842111864165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f2436f8d95873c0800000000000000
+      internalID: -4361637450729902277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_49
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de71172792f2d6f0800000000000000
+      internalID: -661199464260600106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_50
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c63351a299ba440800000000000000
+      internalID: 4948217021619989647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_51
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9792a03dac89e1e40800000000000000
+      internalID: 5629104581151172985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_52
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09025d781d9b64850800000000000000
+      internalID: 6360975833285599376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_53
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: facb5edc20d08f0e0800000000000000
+      internalID: -2236022909293970257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_54
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95301d0226c1901f0800000000000000
+      internalID: -1078299427995581607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_55
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08079f8e0cf683b90800000000000000
+      internalID: -7261931524801859456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_56
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f2b82d6dcd007350800000000000000
+      internalID: 6012320678490452727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_57
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70dc8988d3179c540800000000000000
+      internalID: 5028674968034528519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_58
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ca7f70c70494050800000000000000
+      internalID: 5785226097787907086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_59
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a72c147a9d8c270800000000000000
+      internalID: 8271100028051946002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f85894b6261bdb10800000000000000
+      internalID: 2007222414418139378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_61
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac4d914b1aba8a60800000000000000
+      internalID: 7677153141034142884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_62
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60e73283a291234e0800000000000000
+      internalID: -2003511215105278458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_63
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e840f56b00a3137c0800000000000000
+      internalID: -4093426811568978802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_64
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b051d1edf48f8860800000000000000
+      internalID: 7534386927564312760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_65
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b483d675c9847e0800000000000000
+      internalID: -1781001753316537571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_66
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c23cc44fb82c86a0800000000000000
+      internalID: -6445732164715924797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_67
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e341ca0f59811fe10800000000000000
+      internalID: 2229590322792109118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_68
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c1de95c3325e880800000000000000
+      internalID: -8582414772770890646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_69
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b224ae8b03e845770800000000000000
+      internalID: 8598653928469053995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_70
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f463289d4a33d70c0800000000000000
+      internalID: -4576444863221713329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_71
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7cc330718cee4020800000000000000
+      internalID: 2328058098074504317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b98e2487ed7ccb680800000000000000
+      internalID: -8737889418691286885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_73
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c5bb214ad5033a0800000000000000
+      internalID: -6687742487374898055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_74
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65eb0c6289c829610800000000000000
+      internalID: 1626517000547253846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_75
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a2d4f41740e3e580800000000000000
+      internalID: -8798942651052928350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_76
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1327fa01d9cd06700800000000000000
+      internalID: 531667323177628209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_77
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 109d389f655d2f640800000000000000
+      internalID: 5112383096549005569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_78
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d4c0a78809471ff0800000000000000
+      internalID: -65503368589556523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_79
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4110bd404b09d93e0800000000000000
+      internalID: -2045319552906362604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_80
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db64126f823d3f70800000000000000
+      internalID: 9168540007803415510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_81
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d2cf2c137850420800000000000000
+      internalID: 2595629408043412742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_82
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78edd268ba558d920800000000000000
+      internalID: 3015254145703468679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_83
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a1269da92b8419d0800000000000000
+      internalID: -2804463656822758999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b70aab9ddd742de0800000000000000
+      internalID: -1358822796806191183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_85
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58057be736120e790800000000000000
+      internalID: -7502960267987824507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_86
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e442e60152e40f0800000000000000
+      internalID: -1130925703925838238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_87
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d96a5d8988cc42a30800000000000000
+      internalID: 4189698440413161117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_88
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7a8077a9718dda0800000000000000
+      internalID: -5919955757989058596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_89
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b53f208d6da539890800000000000000
+      internalID: -7452513079574465701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_90
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 733dc11a2ac8846f0800000000000000
+      internalID: -700155111940500681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_91
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4dd4b510777f9a20800000000000000
+      internalID: 3071304794174184782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_92
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88e6e602147704490800000000000000
+      internalID: -7764074635986047352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_93
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e57e567ce0e3ab0800000000000000
+      internalID: -5026563884527952323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_94
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f2704d6cda83af0800000000000000
+      internalID: -416391896059400323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_95
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b2c9bcd42734190800000000000000
+      internalID: -7979408436316329154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae3c909df57102d10800000000000000
+      internalID: 2098703126785278954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_97
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b46562bfac916d90800000000000000
+      internalID: -7106226458587732808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_98
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d124d22f3d3fed6d0800000000000000
+      internalID: -2963663413136506339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_99
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cfc5e265630992e0800000000000000
+      internalID: -2118658415715299388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_100
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca96f7275e7fa2d0800000000000000
+      internalID: -3265252292022592823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_101
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0267e20e195287620800000000000000
+      internalID: 2772006879108167200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_102
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b60d0d539ff04be40800000000000000
+      internalID: 5671175393790447723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_103
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8287ffca94e1101c0800000000000000
+      internalID: -4539313647628879832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_104
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec2062cb58df062f0800000000000000
+      internalID: -981505967937682738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_105
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5faf6ed9e3236d8b0800000000000000
+      internalID: -5127855881196209419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_106
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d2060a3d39fcba0800000000000000
+      internalID: -6066467635906728684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_107
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1136c798922bfb0f0800000000000000
+      internalID: -1098963892585077999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_108
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c38cbc51aea7f4bc0800000000000000
+      internalID: -3796680815043426244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_109
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a8a6324c6a99460800000000000000
+      internalID: 7249008436567509537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_110
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a11bf72a7b04f2f30800000000000000
+      internalID: 4552928905744331034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_111
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebfdad898dae08ad0800000000000000
+      internalID: -2701901560423981122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_112
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbff8464d38433930800000000000000
+      internalID: 4121717511983529919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_113
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0dd4cec6f34200f0800000000000000
+      internalID: -1152283827343401714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_114
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3abfaa77cf0f9160800000000000000
+      internalID: 7034358492407249467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_115
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1f1446f69375c920800000000000000
+      internalID: 3009939018180992797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_116
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ead2c50079c315500800000000000000
+      internalID: 383154062546972078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_117
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d3022d2bcc66cd50800000000000000
+      internalID: 6757207910807372761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_118
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a13d509e862769600800000000000000
+      internalID: 474692605645804314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_119
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 265e88830a3de7d00800000000000000
+      internalID: 972447254655329634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_120
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c31eacf42b0ccb00800000000000000
+      internalID: 850066683152176065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_121
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0d42971c3fd594d0800000000000000
+      internalID: -3128348916952445686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_122
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b4c3e8a54e135a50800000000000000
+      internalID: 6508579171015574709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_123
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b56acb79f2340500800000000000000
+      internalID: 361469917201589681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_124
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d746e2b27fbdd10800000000000000
+      internalID: 2151585011833535832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_125
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 677b571ab92e0a6a0800000000000000
+      internalID: -6439898309083154570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_126
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b22e8947b244f0690800000000000000
+      internalID: -7633807889939242453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_127
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f12f4bfd042a1c740800000000000000
+      internalID: 5170592246712824351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_128
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef2b0278fd0d8d90800000000000000
+      internalID: -7093998477322276885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_129
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a829a7b8f33ab20800000000000000
+      internalID: 3144426833124166275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_130
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f025549c680dcadb0800000000000000
+      internalID: -4779215827225980401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_131
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad3bb400c9377f390800000000000000
+      internalID: -7784626317029559334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_132
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adaefd282e645f5c0800000000000000
+      internalID: -4182358740271371558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_133
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2700009a239ab880800000000000000
+      internalID: -8594395127869339857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_134
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 149e75e7731cec3b0800000000000000
+      internalID: -5490238451631003327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_135
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77a476c3a46858320800000000000000
+      internalID: 2559599616629099127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_136
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 909243887a89d4020800000000000000
+      internalID: 2327684427732494601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_137
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e2a03298627c300800000000000000
+      internalID: 272228672919449193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_138
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8fb2e58058514d10800000000000000
+      internalID: 2108063203452960654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_139
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23dcaa7b8a6221040800000000000000
+      internalID: 4616795074085965106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_140
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea23adfc82f58ef0800000000000000
+      internalID: -106412328808666388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_141
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065f2115198740420800000000000000
+      internalID: 2595331850798036320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_142
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 599e79f29da7cfc00800000000000000
+      internalID: 935757895811197333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_143
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e452c7b4bc5562a0800000000000000
+      internalID: -6744882935670614815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_144
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d0c8c272024b1da0800000000000000
+      internalID: -5973107902493703981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_145
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c09c46faea6cd710800000000000000
+      internalID: 1719366715135791302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_146
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 117ac81c51ac43740800000000000000
+      internalID: 5130948070272182033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_147
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae442dc5441a7900800000000000000
+      internalID: 682880583527059115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_148
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 921b8ac2473d36aa0800000000000000
+      internalID: -6168854568648527575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_149
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 937315817ddfb20a0800000000000000
+      internalID: -6905146503374751943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_150
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc5f00b765f8c980800000000000000
+      internalID: -8518288869487059719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_151
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e16e24ad8f1747ef0800000000000000
+      internalID: -111338777149774306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_152
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a62c94e011d8cc320800000000000000
+      internalID: 2579591790970126954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_153
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5641a5c86ebd4f770800000000000000
+      internalID: 8643775368074499173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_154
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 320eb1a4e83b22ff0800000000000000
+      internalID: -62290021119696861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_155
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc32506b05de5a5a0800000000000000
+      internalID: -6510536755387227189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_156
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a46576f5f4c92a0800000000000000
+      internalID: -6729416472024167936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_157
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b5a5355f3c7e91a0800000000000000
+      internalID: -6800861775828507211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_158
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f90d16cd3f165e950800000000000000
+      internalID: 6477691339044671647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_159
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d563aed0a8c1640800000000000000
+      internalID: 5052064674371493223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_160
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de95dbf24212b3ed0800000000000000
+      internalID: -2433314734360143379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_161
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e8b3bafb563db1d0800000000000000
+      internalID: -3333448380508292889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_162
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73668ec45c8f745d0800000000000000
+      internalID: -3078218294001899977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_163
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7753cec18294dbd50800000000000000
+      internalID: 6754635452758373751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_164
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae389e5189124610800000000000000
+      internalID: 1603872460725829294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_165
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 305821fb678f955b0800000000000000
+      internalID: -5378995091021855485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_166
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a868d944dc45b9f0800000000000000
+      internalID: -453371712825169755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_167
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 716331245703f47a0800000000000000
+      internalID: -6390836066037582313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_168
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62a994aeef7482d20800000000000000
+      internalID: 3253929890953140774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_169
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d34a3d1f8acd7e0800000000000000
+      internalID: -1739329599480513172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_170
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de77b2cf760b393d0800000000000000
+      internalID: -3201020949471463443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_171
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4817175f436956020800000000000000
+      internalID: 2334437136061788548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_172
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b6a354e0675edb0800000000000000
+      internalID: -4763271227211355347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_173
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a1f6f03c27316ec0800000000000000
+      internalID: -3575515966215884384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_174
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f362fee16fb01a0800000000000000
+      internalID: -6842104596137623770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_175
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa33f077da1c6930800000000000000
+      internalID: 4137711670261922471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_176
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f53b82e8ab34080800000000000000
+      internalID: -9204308093684195487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_177
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1df567fd9d18c4d0800000000000000
+      internalID: -3114206578028970725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_178
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d3d15adcf70fee20800000000000000
+      internalID: 3381930627754480595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_179
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75534cae7aefedb20800000000000000
+      internalID: 3161243985612387671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_180
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b652267998d936f0800000000000000
+      internalID: -704293713083214151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_181
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf4003aeffd8d3a20800000000000000
+      internalID: 3043745053457515771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_182
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3731fb5f5486f5a70800000000000000
+      internalID: 8817881245099692915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_183
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f97db2a34a474e8c0800000000000000
+      internalID: -3970920722734524513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_184
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b2f7b2c231998fd0800000000000000
+      internalID: -2339178884241034574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_4colors_tileset_frame_0_185
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 905e066bd8b700200800000000000000
+      internalID: 144251036656264457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

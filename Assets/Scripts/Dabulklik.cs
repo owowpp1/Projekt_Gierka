@@ -23,6 +23,7 @@ public class Dabulklik : MonoBehaviour
     {
         attack_box.SetActive(true);
         Invoke("odkliknij", 0.5f);
+        Soundz.GrajDzwiek("ciach");
     }
     void odkliknij()
     {

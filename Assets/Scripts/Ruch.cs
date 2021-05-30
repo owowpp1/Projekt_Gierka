@@ -80,9 +80,10 @@ public class Ruch : MonoBehaviour
             animacja.SetFloat("predkosc", Mathf.Abs(ruchwbok));
             ruch.Move(ruchwbok * Time.fixedDeltaTime, przykuc, czyskok);
         }
-        if (ziemia.OverlapPoint(czyKrawedz) && !ziemia.OverlapPoint(czyPowietrze) && delajdrop>30)
+        if (ziemia.OverlapPoint(czyKrawedz) && !ziemia.OverlapPoint(czyPowietrze) && delajdrop>30 && !Hero_stats.ded)
         {
             grab = true;
+            Hero_stats.vulnerable = false;
             postac.constraints |= RigidbodyConstraints2D.FreezePosition;
             delajlap++;
             animacja.SetBool("czyskok", false);
@@ -107,6 +108,7 @@ public class Ruch : MonoBehaviour
                 else wspinaczka.x = -Mathf.Abs(wspinaczka.x);
 
                 progres = transform.position + wspinaczka;
+                Hero_stats.vulnerable = true;
 
             }
             else if(kontroler.Vertical <= -progSkok && delajlap > 4)
@@ -117,6 +119,7 @@ public class Ruch : MonoBehaviour
                 postac.constraints = oryginalneConstrainty;
                 animacja.SetBool("wisi", false);
                 grab = false;
+                Hero_stats.vulnerable = true;
                 znamStrone = false;
             }
         }
@@ -133,6 +136,7 @@ public class Ruch : MonoBehaviour
         grab = false;
         wchodzi = false;
         znamStrone = false;
+        Hero_stats.vulnerable = true;
         postac.constraints = oryginalneConstrainty;
     }
 }

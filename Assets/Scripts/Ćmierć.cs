@@ -14,6 +14,7 @@ public class Ćmierć : MonoBehaviour
     private Vector2 pozycja_konc;
     private Vector2 krok;
 
+
     private Vector2 pozycjaHelthbaraWys;
     private Vector2 pozycjaHelthbaraSch;
 
@@ -44,29 +45,38 @@ public class Ćmierć : MonoBehaviour
             var pozycja = pozycja_RT.anchoredPosition;
 
             if (this.name == "Lawa") dmg = Hero_stats.currHealth;
+            else if (this.tag == "bos") dmg = 2;
             else dmg = 1;
 
-            Hero_stats.currHealth-=dmg;
+            if (Hero_stats.vulnerable)
+            {
+                Hero_stats.currHealth -= dmg;
+                Soundz.GrajDzwiek("dzgon");
 
-            krok = new Vector2(0, 0);
-            krok.x = (pozycja_konc.x - pozycja_pocz.x);
-            krok /= (Hero_stats.maxHlth-1);
-            krok *= dmg;
+                krok = new Vector2(0, 0);
+                krok.x = (pozycja_konc.x - pozycja_pocz.x);
+                krok /= (Hero_stats.maxHlth - 1);
+                krok *= dmg;
 
-            Vector2 cel = pozycja + krok;
+                Vector2 cel = pozycja + krok;
 
-            //Debug.Log("pos: " + pozycja);
-            //Debug.Log("cel: " + cel);
-            //WysunHB();
-            StartCoroutine(przesunPasek(cel, 2));
-            //Invoke("SchowajHB", 5);
+                //Debug.Log("pos: " + pozycja);
+                //Debug.Log("cel: " + cel);
+                //WysunHB();
+                StartCoroutine(przesunPasek(cel, 2));
+                //Invoke("SchowajHB", 5);
+            }
 
-            if (Hero_stats.currHealth <= 0)
+            if (Hero_stats.currHealth <= 0 && Hero_stats.vulnerable)
             {
                 tekst.SetActive(true);
                 Ruch.predkosc = 0f;
                 Ruch.progSkok = 2f;
                 Hero_stats.ded = true;
+                Hero_stats.animacja.SetTrigger("umjera");
+
+                //animacja.SetTrigger("umjera");
+                Soundz.GrajDzwiek("oof");
                 Invoke("respawn", 2);
             }
             Invoke("kolizjatrue", 2);
@@ -83,6 +93,8 @@ public class Ćmierć : MonoBehaviour
         Ruch.progSkok = .5f;
         pozycja_RT.anchoredPosition = pozycja_pocz;
         kolizja = true;
+
+        Hero_stats.animacja.SetTrigger("odzywa");
     }
     void kolizjatrue()
     {
