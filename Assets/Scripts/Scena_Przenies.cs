@@ -11,7 +11,6 @@ public class Scena_Przenies : MonoBehaviour, IPointerDownHandler
     {
         Text tekst;
         string nazwasceny;
-        //Debug.Log(this.gameObject.name + " Was Clicked.");
         tekst = GameObject.Find(this.gameObject.name).GetComponent<Text>();
         nazwasceny = tekst.text;
         Debug.Log("nazwasceny " + nazwasceny);

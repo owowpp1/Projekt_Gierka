@@ -38,7 +38,6 @@ public class Ćmierć : MonoBehaviour
 
     void OnTriggerEnter2D(Collider2D other)
     {
-        //Debug.Log("wykryto lol");
         if (other.name == "Szkity_collider" && kolizja)
         {
             kolizja = false;
@@ -60,11 +59,8 @@ public class Ćmierć : MonoBehaviour
 
                 Vector2 cel = pozycja + krok;
 
-                //Debug.Log("pos: " + pozycja);
-                //Debug.Log("cel: " + cel);
-                //WysunHB();
                 StartCoroutine(przesunPasek(cel, 2));
-                //Invoke("SchowajHB", 5);
+               
             }
 
             if (Hero_stats.currHealth <= 0 && Hero_stats.vulnerable)
@@ -75,7 +71,6 @@ public class Ćmierć : MonoBehaviour
                 Hero_stats.ded = true;
                 Hero_stats.animacja.SetTrigger("umjera");
 
-                //animacja.SetTrigger("umjera");
                 Soundz.GrajDzwiek("oof");
                 Invoke("respawn", 2);
             }

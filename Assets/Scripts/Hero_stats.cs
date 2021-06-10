@@ -10,9 +10,6 @@ public class Hero_stats : MonoBehaviour
     public static GameObject wyburScen;
     public static Animator animacja;
 
-    //[Range(0, 4)] [SerializeField] public float set_nme_spd = 1f;
-    //[Range(0, 20)] [SerializeField] public int maxHealth = 3;
-
     public static int Facing;  //1=left, -1=right
     public static bool ded = false;
     public static bool kliknol = false;
@@ -45,13 +42,7 @@ public class Hero_stats : MonoBehaviour
         def_nme_spd = nme_speed;
         maxHlth = PlayerPrefs.GetInt("maxHlth", 5);
         currHealth = PlayerPrefs.GetInt("currHealth", maxHlth);
-        bos_hp = PlayerPrefs.GetInt("bos_hp", 10);
-        
-
-        //nme_speed = set_nme_spd;
-        //def_nme_spd = set_nme_spd;
-        //maxHlth = maxHealth;
-        //currHealth = maxHealth;
+        bos_hp = PlayerPrefs.GetInt("bos_hp", 3);
     }
 
 }

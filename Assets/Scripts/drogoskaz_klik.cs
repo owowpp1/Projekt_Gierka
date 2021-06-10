@@ -9,10 +9,8 @@ public class drogoskaz_klik : MonoBehaviour
 
     void OnMouseDown()
     {
-        //Debug.Log("Klik");
         if (Drogowskaz_Trigger.wewnocz)
         {
-            //Debug.Log(this.name);
             string nazwa = this.name;
             int numermapy;
             var numer = nazwa.Split('-');
@@ -30,7 +28,7 @@ public class drogoskaz_klik : MonoBehaviour
                     {
                         Hero_stats.maxHlth++;
                         PlayerPrefs.SetInt("maxHlth", Hero_stats.maxHlth);
-                        Hero_stats.nme_speed += 1f;
+                        Hero_stats.nme_speed += 0.4f;
                         PlayerPrefs.SetFloat("nme_speed", Hero_stats.nme_speed);
                     }
                     Hero_stats.ukonczone[numermapy] = 1;

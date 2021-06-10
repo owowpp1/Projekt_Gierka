@@ -15,8 +15,6 @@ public class Dabulklik : MonoBehaviour
     {
         animacja.SetTrigger("atacc");
 
-
-        //Hero_stats.kliknol = true;
         Invoke("kliknij", 0.2f);
     }
     void kliknij()
@@ -27,31 +25,16 @@ public class Dabulklik : MonoBehaviour
     }
     void odkliknij()
     {
-        //Hero_stats.kliknol = false;
-
-
         attack_box.SetActive(false);
     }
     void Update()
     {
-       /* if(Input.GetKeyDown(KeyCode.Space))
-        {
-            Attack();
-        }*/
         if (Input.GetButtonDown("Fire1"))
         {
 
             if (Time.time - lastClickTime < catchTime && !Hero_stats.ded)
             {
-                //double click
-                //print("Double click");
                 Attack();
-                //SceneManager.LoadScene("Do_testów");
-            }
-            else
-            {
-                //normal click
-               
             }
             lastClickTime = Time.time;
         }

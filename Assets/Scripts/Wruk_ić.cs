@@ -28,23 +28,19 @@ public class Wruk_ić : MonoBehaviour
 
     }
 
-    // Update is called once per frame
     void FixedUpdate()
     {
         czyZiemia = detektorpodlogi.position;
         czySciana = detektorsciany.position;
         if (ziemia.OverlapPoint(czyZiemia)&&!ziemia.OverlapPoint(czySciana))
         {
-            //Debug.Log("IDE");
             Vector2 ruch = wruk.velocity;
             predkosc = Hero_stats.nme_speed;
             ruch.x = predkosc*kjerunek;
             wruk.velocity = ruch;
-
         }
         else
         {
-            //Debug.Log("Zawracam");
             Flip();
         }
         Vector2 ruch2 = wruk.velocity;
@@ -52,8 +48,6 @@ public class Wruk_ić : MonoBehaviour
     }
     private void Flip()
     {
-
-        // Multiply the player's x local scale by -1.
         Vector3 theScale = transform.localScale;
         theScale.x *= -1;
         kjerunek *= -1;

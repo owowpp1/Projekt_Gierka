@@ -20,4 +20,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Tower.unity
     guid: 6fd51d216d1b9c94ba9f011fe860772b
+  - enabled: 1
+    path: Assets/Scenes/Desert.unity
+    guid: b661bdda0f7e965439b07d6b24591474
   m_configObjects: {}
